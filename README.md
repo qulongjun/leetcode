@@ -7,4 +7,4 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/) | [C++](./【0001】Two-Sum)|Easy|
+|0001|[两数之和](https://leetcode-cn.com/problems/two-sum/) | [Javascript](./1.两数之和.js)|Easy|
