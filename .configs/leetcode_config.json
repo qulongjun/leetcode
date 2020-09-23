@@ -1,0 +1,18 @@
+{
+    "leetcode.endpoint": "leetcode-cn",
+    "leetcode.workspaceFolder": "/Users/qulongjun/Personal/leetcode/",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontSize": 24,
+    "markdown.preview.fontSize": 24,
+    "leetcode.defaultLanguage": "javascript",
+    "leetcode.showDescription": "Both",
+    "leetcode.filePath": {
+
+        "default": {
+            "folder": "${difficulty}/${tag}",
+            "filename": "【000${id}】${snake_case_name}.${ext}"
+        }
+    }
+}
