@@ -20,7 +20,7 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0001|[两数之和](https://leetcode-cn.com/problems/two-sum/) | [Solution](./easy/array/【0001】两数之和.js)|Easy| 2 | 2020.09.23 |
-|0026|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./easy/array/【0026】删除排序数组中的重复项.js)|Easy| 1 | 2020.09.23 |
+|0026|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./easy/array/【0026】删除排序数组中的重复项.js)|Easy| 1 | 2020.09.24 |
 
 #### Linked List
 
