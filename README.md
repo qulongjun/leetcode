@@ -1,11 +1,11 @@
 LeetCode
 ========
 
-### LeetCode Algorithm
+## LeetCode Algorithm
 
 ✏️  LeetCode solutions with JavaScript
 
-### Easy
+## Easy
 
 #### Math
 
@@ -29,11 +29,13 @@ LeetCode
 
 #### String
 
+| # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
+|:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0014|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [Solution](./easy/math/【0014】最长公共前缀.js)|Easy| 2 | 2020.09.24 |
 |0020|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Solution](./easy/math/【0020】有效的括号.js)|Easy| 2 | 2020.09.24 |
 
-### Medium
+## Medium
 
 
-### Hard
+## Hard
 
