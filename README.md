@@ -27,14 +27,15 @@ LeetCode
 
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
-|0021|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Solution](./easy/math/【0021】合并两个有序链表.js)|Easy| 2 | 2020.09.24 |
+|0021|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Solution](./easy/linked-list/【0021】合并两个有序链表.js)|Easy| 2 | 2020.09.24 |
 
 #### String
 
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
-|0014|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [Solution](./easy/math/【0014】最长公共前缀.js)|Easy| 2 | 2020.09.24 |
-|0020|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Solution](./easy/math/【0020】有效的括号.js)|Easy| 2 | 2020.09.24 |
+|0014|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [Solution](./easy/string/【0014】最长公共前缀.js)|Easy| 2 | 2020.09.24 |
+|0020|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Solution](./easy/string/【0020】有效的括号.js)|Easy| 2 | 2020.09.24 |
+|0028|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Solution](./easy/string/【0028】实现_str_str.js)|Easy| 2 | 2020.09.24 |
 
 ## Medium
 
