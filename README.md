@@ -39,6 +39,12 @@ LeetCode
 |0028|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Solution](./easy/string/【0028】实现_str_str.js)|Easy| 2 | 2020.09.24 |
 |0058|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [Solution](./easy/string/【0058】最后一个单词的长度.js)|Easy| 1 | 2020.09.24 |
 
+#### Tree
+
+| # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
+|:---:| :-----: | :--------: | :----------: | :---: | :--------: |
+|0100|[相同的树](https://leetcode-cn.com/problems/same-tree/) | [Solution](./easy/tree/【0100】相同的树.js)|Easy| 2 | 2020.09.24 |
+
 ## Medium
 
 #### Tree
