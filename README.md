@@ -37,6 +37,7 @@ LeetCode
 |0014|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [Solution](./easy/string/【0014】最长公共前缀.js)|Easy| 2 | 2020.09.24 |
 |0020|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Solution](./easy/string/【0020】有效的括号.js)|Easy| 2 | 2020.09.24 |
 |0028|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Solution](./easy/string/【0028】实现_str_str.js)|Easy| 2 | 2020.09.24 |
+|0058|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [Solution](./easy/string/【0058】最后一个单词的长度.js)|Easy| 1 | 2020.09.24 |
 
 ## Medium
 
