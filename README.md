@@ -47,6 +47,7 @@ LeetCode
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0100|[相同的树](https://leetcode-cn.com/problems/same-tree/) | [Solution](./easy/tree/【0100】相同的树.js)|Easy| 2 | 2020.09.24 |
 |0101|[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [Solution](./easy/tree/【0101】对称二叉树.js)|Easy| 1 | 2020.09.25 |
+|0104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Solution](./easy/tree/【0104】二叉树的最大深度.js)|Easy| 2 | 2020.09.25 |
 
 ## Medium
 
