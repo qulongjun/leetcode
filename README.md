@@ -30,6 +30,7 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0021|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Solution](./easy/linked-list/【0021】合并两个有序链表.js)|Easy| 2 | 2020.09.24 |
+|0083|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./easy/linked-list/【0083】删除排序链表中的重复元素.js)|Easy| 1 | 2020.09.25 |
 
 #### String
 
