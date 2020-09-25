@@ -53,7 +53,8 @@ LeetCode
 
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
-|0094|[最长公共前缀](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Solution](./medium/tree/【0094】二叉树的中序遍历.js)|Medium| 2 | 2020.09.24 |
+|0094|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Solution](./medium/tree/【0094】二叉树的中序遍历.js)|Medium| 2 | 2020.09.24 |
+|0144|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solution](./medium/tree/【0144】二叉树的前序遍历.js)|Medium| 2 | 2020.09.25 |
 
 ## Hard
 
