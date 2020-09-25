@@ -46,6 +46,7 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0100|[相同的树](https://leetcode-cn.com/problems/same-tree/) | [Solution](./easy/tree/【0100】相同的树.js)|Easy| 2 | 2020.09.24 |
+|0101|[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [Solution](./easy/tree/【0101】对称二叉树.js)|Easy| 1 | 2020.09.25 |
 
 ## Medium
 
