@@ -23,6 +23,7 @@ LeetCode
 |0026|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./easy/array/【0026】删除排序数组中的重复项.js)|Easy| 1 | 2020.09.24 |
 |0027|[移除元素](https://leetcode-cn.com/problems/remove-element/) | [Solution](./easy/array/【0027】移除元素.js)|Easy| 1 | 2020.09.24 |
 |0035|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Solution](./easy/array/【0035】搜索插入位置.js)|Easy| 1 | 2020.09.24 |
+|0066|[加一](https://leetcode-cn.com/problems/plus-one/) | [Solution](./easy/array/【0066】加一.js)|Easy| 1 | 2020.09.25 |
 
 #### Linked List
 
