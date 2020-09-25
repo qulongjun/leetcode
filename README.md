@@ -58,6 +58,7 @@ LeetCode
 |0094|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Solution](./medium/tree/【0094】二叉树的中序遍历.js)|Medium| 2 | 2020.09.24 |
 |0098|[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Solution](./medium/tree/【0098】验证二叉搜索树.js)|Medium| 1 | 2020.09.25 |
 |0105|[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./medium/tree/【0105】从前序与中序遍历序列构造二叉树.js)|Medium| 1 | 2020.09.25 |
+|0106|[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./medium/tree/【0106】从中序与后序遍历序列构造二叉树.js)|Medium| 1 | 2020.09.25 |
 |0144|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solution](./medium/tree/【0144】二叉树的前序遍历.js)|Medium| 2 | 2020.09.25 |
 |0145|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Solution](./medium/tree/【0145】二叉树的后序遍历.js)|Medium| 2 | 2020.09.25 |
 
