@@ -55,6 +55,7 @@ LeetCode
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0094|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Solution](./medium/tree/【0094】二叉树的中序遍历.js)|Medium| 2 | 2020.09.24 |
 |0144|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solution](./medium/tree/【0144】二叉树的前序遍历.js)|Medium| 2 | 2020.09.25 |
+|0145|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Solution](./medium/tree/【0145】二叉树的后序遍历.js)|Medium| 2 | 2020.09.25 |
 
 ## Hard
 
