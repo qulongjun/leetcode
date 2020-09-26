@@ -53,6 +53,7 @@ LeetCode
 |0110|[平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [Solution](./easy/tree/【0110】平衡二叉树.js)|Easy| 1 | 2020.09.26 |
 |0111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Solution](./easy/tree/【0111】二叉树的最小深度.js)|Easy| 1 | 2020.09.25 |
 |0112|[路径总和](https://leetcode-cn.com/problems/path-sum/) | [Solution](./easy/tree/【0112】路径总和.js)|Easy| 1 | 2020.09.26 |
+|0226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [Solution](./easy/tree/【0226】翻转二叉树.js)|Easy| 2 | 2020.09.26 |
 
 ## Medium
 
