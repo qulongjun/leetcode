@@ -52,6 +52,7 @@ LeetCode
 |0108|[将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./easy/tree/【0108】将有序数组转换为二叉搜索树.js)|Easy| 1 | 2020.09.26 |
 |0110|[平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [Solution](./easy/tree/【0110】平衡二叉树.js)|Easy| 1 | 2020.09.26 |
 |0111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Solution](./easy/tree/【0111】二叉树的最小深度.js)|Easy| 1 | 2020.09.25 |
+|0112|[路径总和](https://leetcode-cn.com/problems/path-sum/) | [Solution](./easy/tree/【0112】路径总和.js)|Easy| 1 | 2020.09.26 |
 
 ## Medium
 
