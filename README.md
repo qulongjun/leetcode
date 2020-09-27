@@ -56,6 +56,12 @@ LeetCode
 |0226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [Solution](./easy/tree/【0226】翻转二叉树.js)|Easy| 2 | 2020.09.26 |
 |0235|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./easy/tree/【0235】二叉搜索树的最近公共祖先.js)|Easy| 1 | 2020.09.27 |
 
+#### Unknown
+
+| # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
+|:---:| :-----: | :--------: | :----------: | :---: | :--------: |
+|1480|[一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/) | [Solution](./easy/Unknown/【1480】一维数组的动态和.js)|Easy| 1 | 2020.09.27 |
+
 ## Medium
 
 #### Tree
