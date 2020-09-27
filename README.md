@@ -89,5 +89,12 @@ LeetCode
 |0003|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Solution](./medium/string/【0003】无重复字符的最长子串.js)|Medium| 1 | 2020.09.26 |
 |0006|[Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [Solution](./medium/string/【0006】z_字形变换.js)|Medium| 1 | 2020.09.26 |
 
+
+#### Linked List
+
+| # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
+|:---:| :-----: | :--------: | :----------: | :---: | :--------: |
+|0019|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./medium/linked-list/【0019】删除链表的倒数第N个节点.js)|Medium| 1 | 2020.09.26 |
+
 ## Hard
 
