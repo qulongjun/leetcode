@@ -24,6 +24,7 @@ LeetCode
 |0027|[移除元素](https://leetcode-cn.com/problems/remove-element/) | [Solution](./easy/array/【0027】移除元素.js)|Easy| 1 | 2020.09.24 |
 |0035|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Solution](./easy/array/【0035】搜索插入位置.js)|Easy| 1 | 2020.09.24 |
 |0066|[加一](https://leetcode-cn.com/problems/plus-one/) | [Solution](./easy/array/【0066】加一.js)|Easy| 1 | 2020.09.25 |
+|0088|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Solution](./easy/array/【0088】合并两个有序数组.js)|Easy| 1 | 2020.09.27 |
 |0283|[移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Solution](./easy/array/【0283】移动零.js)|Easy| 1 | 2020.09.27 |
 
 #### Linked List
