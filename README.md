@@ -98,5 +98,11 @@ LeetCode
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0019|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./medium/linked-list/【0019】删除链表的倒数第N个节点.js)|Medium| 1 | 2020.09.26 |
 
+#### Array
+
+| # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
+|:---:| :-----: | :--------: | :----------: | :---: | :--------: |
+|0015|[三数之和](https://leetcode-cn.com/problems/3sum/) | [Solution](./medium/array/【0015】三数之和.js)|Medium| 1 | 2020.09.28 |
+
 ## Hard
 
