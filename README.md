@@ -80,7 +80,7 @@ LeetCode
 |0113|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [Solution](./medium/tree/【0113】路径总和_ii.js)|Medium| 1 | 2020.09.26 |
 |0129|[求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Solution](./medium/tree/【0129】求根到叶子节点数字之和.js)|Medium| 1 | 2020.09.26 |
 |0144|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solution](./medium/tree/【0144】二叉树的前序遍历.js)|Medium| 2 | 2020.09.25 |
-|0145|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Solution](./medium/tree/【0145】二叉树的后序遍历.js)|Medium| 2 | 2020.09.25 |
+|0145|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Solution](./medium/tree/【0145】二叉树的后序遍历.js)|Medium| 3 | 2020.09.29 |
 |0199|[二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [Solution](./medium/tree/【0199】二叉树的右视图.js)|Medium| 1 | 2020.09.26 |
 
 
