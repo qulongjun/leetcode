@@ -58,7 +58,7 @@ LeetCode
 |0112|[路径总和](https://leetcode-cn.com/problems/path-sum/) | [Solution](./easy/tree/【0112】路径总和.js)|Easy| 1 | 2020.09.26 |
 |0226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [Solution](./easy/tree/【0226】翻转二叉树.js)|Easy| 2 | 2020.09.26 |
 |0235|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./easy/tree/【0235】二叉搜索树的最近公共祖先.js)|Easy| 1 | 2020.09.27 |
-|0509|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | [Solution](./easy/tree/【0509】斐波那契数.js)|Easy| 1 | 2020.09.27 |
+|0509|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | [Solution](./easy/tree/【0509】斐波那契数.js)|Easy| 1 | 2020.09.29 |
 
 #### Unknown
 

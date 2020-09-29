@@ -63,31 +63,53 @@
  * @param {number} N 当前的值
  * @param {number[]} caches 缓存数组
  */
-const helper = (N, caches) => {
-  // base case，即起点位置或者结束位置
-  if (N === 0 || N === 1) return N;
+// const helper = (N, caches) => {
+//   // base case，即起点位置或者结束位置
+//   if (N === 0 || N === 1) return N;
 
-  // 从备忘录里找，看看是否已经出现过并存起来了
-  if (caches[N]) return caches[N];
+//   // 从备忘录里找，看看是否已经出现过并存起来了
+//   if (caches[N]) return caches[N];
 
-  // 如果没有出现过，就计算一下并且存起来
-  caches[N] = helper(N - 1, caches) + helper(N - 2, caches);
+//   // 如果没有出现过，就计算一下并且存起来
+//   caches[N] = helper(N - 1, caches) + helper(N - 2, caches);
 
-  // 返回当前值
-  return caches[N];
-};
+//   // 返回当前值
+//   return caches[N];
+// };
 
 /**
  * @param {number} N
  * @return {number}
- * @description 备忘录模式
+ * @description 备忘录模式，自顶向下
+ */
+// var fib = function (N) {
+//   // 边界条件
+//   if (N < 0) return 0;
+//   // 备忘录
+//   const caches = [];
+//   // 返回计算结果
+//   return helper(N, caches);
+// };
+
+/**
+ * @param {number} N
+ * @return {number}
+ * @description DP模式，自底向上
  */
 var fib = function (N) {
   // 边界条件
   if (N < 0) return 0;
-  // 备忘录
-  const caches = [];
-  // 返回计算结果 
-  return helper(N, caches);
+  // 定义一个空的 DP Table
+  const dpTable = [];
+  // base case
+  dpTable[0] = 0;
+  dpTable[1] = 1;
+  // 依次往上计算
+  for (let i = 2; i <= N; i++) {
+    dpTable[i] = dpTable[i - 1] + dpTable[i - 2];
+  }
+  // 返回最顶上的结果
+  return dpTable[N];
 };
+
 // @lc code=end
