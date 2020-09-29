@@ -96,20 +96,45 @@
  * @return {number}
  * @description DP模式，自底向上
  */
+// var fib = function (N) {
+//   // 边界条件
+//   if (N < 0) return 0;
+//   // 定义一个空的 DP Table
+//   const dpTable = [];
+//   // base case
+//   dpTable[0] = 0;
+//   dpTable[1] = 1;
+//   // 依次往上计算
+//   for (let i = 2; i <= N; i++) {
+//     dpTable[i] = dpTable[i - 1] + dpTable[i - 2];
+//   }
+//   // 返回最顶上的结果
+//   return dpTable[N];
+// };
+
+/**
+ * @param {number} N
+ * @return {number}
+ * @description DP模式，自底向上，避免 DP Table 空间，用两个变量维护
+ */
 var fib = function (N) {
   // 边界条件
   if (N < 0) return 0;
-  // 定义一个空的 DP Table
-  const dpTable = [];
   // base case
-  dpTable[0] = 0;
-  dpTable[1] = 1;
-  // 依次往上计算
-  for (let i = 2; i <= N; i++) {
-    dpTable[i] = dpTable[i - 1] + dpTable[i - 2];
+  if (N === 0 || N === 1) return N;
+  // 定义两个变量，存储当前元素的前两个元素值，不再需要 DP Table 维护
+  let prev = 0,
+    next = 1;
+  let i = 2;
+  while (i <= N) {
+    // 更新 prev 和 next 的值
+    const temp = prev + next;
+    prev = next;
+    next = temp;
+    i++;
   }
-  // 返回最顶上的结果
-  return dpTable[N];
+
+  return next;
 };
 
 // @lc code=end
