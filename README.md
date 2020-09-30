@@ -110,6 +110,7 @@ LeetCode
 
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
+|0300|[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Solution](./medium/dynamic-programming/【0300】最长上升子序列.js)|Medium| 1 | 2020.09.30 |
 |0322|[零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [Solution](./medium/dynamic-programming/【0322】零钱兑换.js)|Medium| 1 | 2020.09.30 |
 
 ## Hard
