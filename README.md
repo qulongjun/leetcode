@@ -14,6 +14,7 @@ LeetCode
 |0007|[整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [Solution](./easy/math/【0007】整数反转.js)|Easy| 2 | 2020.09.23 |
 |0009|[回文数](https://leetcode-cn.com/problems/palindrome-number/) | [Solution](./easy/math/【0009】回文数.js)|Easy| 2 | 2020.09.23 |
 |0013|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [Solution](./easy/math/【0013】罗马数字转整数.js)|Easy| 1 | 2020.09.24 |
+|0168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [Solution](./easy/math/【0168】Excel表列名称.js)|Easy| 1 | 2020.10.30 |
 
 #### Array
 
@@ -72,7 +73,7 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |1480|[一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/) | [Solution](./easy/Unknown/【1480】一维数组的动态和.js)|Easy| 1 | 2020.09.27 |
-|1550|[存在连续三个奇数的数组](https://leetcode-cn.com/problems/three-consecutive-odds/) | [Solution](./easy/Unknown/【1550】存在连续三个奇数的数组.js)|Easy| 1 | 2020.09.27 |
+|1550|[存在连续三个奇数的数组](https://leetcode-cn.com/problems/three-consecutive-odds/) | [Solution](./easy/Unknown/【1550】存在连续三个奇数的数组.js)|Easy| 1 | 2020.10.30 |
 
 ## Medium
 
