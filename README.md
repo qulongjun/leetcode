@@ -88,6 +88,7 @@ LeetCode
 |0105|[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./medium/tree/【0105】从前序与中序遍历序列构造二叉树.js)|Medium| 1 | 2020.09.25 |
 |0106|[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./medium/tree/【0106】从中序与后序遍历序列构造二叉树.js)|Medium| 1 | 2020.09.25 |
 |0113|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [Solution](./medium/tree/【0113】路径总和_ii.js)|Medium| 1 | 2020.09.26 |
+|0116|[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](./medium/tree/【0116】填充每个节点的下一个右侧节点指针.js)|Medium| 1 | 2021.02.08 |
 |0129|[求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Solution](./medium/tree/【0129】求根到叶子节点数字之和.js)|Medium| 1 | 2020.09.26 |
 |0144|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solution](./medium/tree/【0144】二叉树的前序遍历.js)|Medium| 2 | 2020.09.25 |
 |0145|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Solution](./medium/tree/【0145】二叉树的后序遍历.js)|Medium| 3 | 2020.09.29 |
