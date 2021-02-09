@@ -52,21 +52,40 @@
  * @param {TreeNode} root
  * @return {TreeNode}
  */
+// var invertTree = function (root) {
+//   if (root === null) {
+//     return null;
+//   }
+//   // 获取右子树
+//   const rightNode = root.right;
+//   // 获取左子树
+//   const leftNode = root.left;
+
+//   // 右子树变成左子树
+//   root.right = invertTree(leftNode);
+//   // 左子树变成右子树
+//   root.left = invertTree(rightNode);
+
+//   // 返回根结点
+//   return root;
+// };
+
+/**
+ * @param {TreeNode} root
+ * @return {TreeNode}
+ */
 var invertTree = function (root) {
   if (root === null) {
     return null;
   }
-  // 获取右子树
-  const rightNode = root.right;
-  // 获取左子树
-  const leftNode = root.left;
 
-  // 右子树变成左子树
-  root.right = invertTree(leftNode);
-  // 左子树变成右子树
-  root.left = invertTree(rightNode);
+  let temp = root.left;
+  root.left = root.right;
+  root.right = temp;
 
-  // 返回根结点
+  invertTree(root.left);
+  invertTree(root.right);
+  
   return root;
 };
 // @lc code=end
