@@ -130,6 +130,7 @@ LeetCode
 
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
+|0022|[括号生成]](https://leetcode-cn.com/problems/generate-parentheses/) | [Solution](./medium/backtracking/【0022】括号生成.js)|Medium| 1 | 2021.02.11 |
 |0046|[全排列]](https://leetcode-cn.com/problems/permutations/) | [Solution](./medium/backtracking/【0046】全排列.js)|Medium| 1 | 2021.02.10 |
 
 #### Unknown
