@@ -122,6 +122,7 @@ LeetCode
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0015|[三数之和](https://leetcode-cn.com/problems/3sum/) | [Solution](./medium/array/【0015】三数之和.js)|Medium| 1 | 2020.09.28 |
 |0018|[四数之和](https://leetcode-cn.com/problems/4sum/) | [Solution](./medium/array/【0018】四数之和.js)|Medium| 1 | 2020.09.28 |
+|0287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [Solution](./medium/array/【0287】寻找重复数.js)|Medium| 1 | 2020.09.28 |
 
 #### Dynamic Programming
 
