@@ -132,6 +132,7 @@ LeetCode
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0022|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [Solution](./medium/backtracking/【0022】括号生成.js)|Medium| 1 | 2021.02.11 |
 |0046|[全排列](https://leetcode-cn.com/problems/permutations/) | [Solution](./medium/backtracking/【0046】全排列.js)|Medium| 1 | 2021.02.10 |
+|0078|[子集](https://leetcode-cn.com/problems/subsets/) | [Solution](./medium/backtracking/【0078】子集.js)|Medium| 1 | 2021.02.11 |
 
 #### Unknown
 
