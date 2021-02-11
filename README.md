@@ -96,6 +96,7 @@ LeetCode
 |0145|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Solution](./medium/tree/【0145】二叉树的后序遍历.js)|Medium| 3 | 2020.09.29 |
 |0199|[二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [Solution](./medium/tree/【0199】二叉树的右视图.js)|Medium| 1 | 2020.09.26 |
 |0230|[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./medium/tree/【0230】二叉搜索树中第K小的元素.js)|Medium| 1 | 2021.02.11 |
+|0236|[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](./medium/tree/【0236】二叉树的最近公共祖先.js)|Medium| 1 | 2021.02.11 |
 
 
 
