@@ -118,6 +118,7 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0019|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./medium/linked-list/【0019】删除链表的倒数第N个节点.js)|Medium| 1 | 2020.09.26 |
+|0142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Solution](./medium/linked-list/【0142】环形链表_ii.js)|Medium| 1 | 2021.02.11 |
 |0148|[排序链表](https://leetcode-cn.com/problems/sort-list/) | [Solution](./medium/linked-list/【0148】排序链表.js)|Medium| 1 | 2021.02.11 |
 
 #### Array
