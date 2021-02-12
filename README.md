@@ -34,6 +34,8 @@ LeetCode
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0021|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Solution](./easy/linked-list/【0021】合并两个有序链表.js)|Easy| 2 | 2020.09.24 |
 |0083|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./easy/linked-list/【0083】删除排序链表中的重复元素.js)|Easy| 1 | 2020.09.25 |
+|0206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Solution](./easy/linked-list/【0206】反转链表.js)|Easy| 1 | 2021.02.12 |
+
 
 #### String
 
@@ -122,7 +124,7 @@ LeetCode
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0015|[三数之和](https://leetcode-cn.com/problems/3sum/) | [Solution](./medium/array/【0015】三数之和.js)|Medium| 1 | 2020.09.28 |
 |0018|[四数之和](https://leetcode-cn.com/problems/4sum/) | [Solution](./medium/array/【0018】四数之和.js)|Medium| 1 | 2020.09.28 |
-|0287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [Solution](./medium/array/【0287】寻找重复数.js)|Medium| 1 | 2020.09.28 |
+|0287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [Solution](./medium/array/【0287】寻找重复数.js)|Medium| 1 | 2021.02.11 |
 
 #### Dynamic Programming
 
