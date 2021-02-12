@@ -34,7 +34,7 @@ LeetCode
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0021|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Solution](./easy/linked-list/【0021】合并两个有序链表.js)|Easy| 2 | 2020.09.24 |
 |0083|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./easy/linked-list/【0083】删除排序链表中的重复元素.js)|Easy| 1 | 2020.09.25 |
-|0141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [Solution](./easy/linked-list/【0141】环形链表.js)|Easy| 1 | 2021.02.12 |
+|0141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [Solution](./easy/linked-list/【0141】环形链表.js)|Easy| 2 | 2021.02.12 |
 |0206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Solution](./easy/linked-list/【0206】反转链表.js)|Easy| 1 | 2021.02.12 |
 
 #### String
@@ -118,7 +118,7 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0019|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./medium/linked-list/【0019】删除链表的倒数第N个节点.js)|Medium| 1 | 2020.09.26 |
-|0142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Solution](./medium/linked-list/【0142】环形链表_ii.js)|Medium| 1 | 2021.02.11 |
+|0142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Solution](./medium/linked-list/【0142】环形链表_ii.js)|Medium| 1 | 2021.02.1 |
 |0148|[排序链表](https://leetcode-cn.com/problems/sort-list/) | [Solution](./medium/linked-list/【0148】排序链表.js)|Medium| 1 | 2021.02.11 |
 
 #### Array

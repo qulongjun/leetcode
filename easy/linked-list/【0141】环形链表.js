@@ -81,22 +81,42 @@
  * @param {ListNode} head
  * @return {boolean}
  */
+// var hasCycle = function (head) {
+//   // 边界条件，如果 head 为 null，则没有环
+//   if (head === null) return false;
+//   // 定义 first，last 两个指针，first 走一步， last 走两步
+//   let first = head,
+//     last = head.next;
+//   // 当 first !== last 的时候，就继续往前走
+//   while (first !== last) {
+//     // 如果前面的指针已经为 null 或者即将为 null，则表示没有环
+//     if (last === null || last.next === null) return false;
+//     // first 节点往前走一步
+//     first = first.next;
+//     // last 节点万千走两步
+//     last = last.next.next;
+//   }
+//   // 如果能结束循环，则表示找到环了
+//   return true;
+// };
+
 var hasCycle = function (head) {
-  // 边界条件，如果 head 为 null，则没有环
-  if (head === null) return false;
-  // 定义 first，last 两个指针，first 走一步， last 走两步
-  let first = head,
-    last = head.next;
-  // 当 first !== last 的时候，就继续往前走
-  while (first !== last) {
-    // 如果前面的指针已经为 null 或者即将为 null，则表示没有环
-    if (last === null || last.next === null) return false;
-    // first 节点往前走一步
-    first = first.next;
-    // last 节点万千走两步
-    last = last.next.next;
+  // 快慢指针
+  let fast = head,
+    slow = head;
+
+  // 当 fast 为 null，则表示没有环
+  while (fast !== null) {
+    // slow 往前走一步
+    slow = slow.next;
+    // fast.next 为 null，则表示没有环
+    if (fast.next === null) return false;
+    // fast 往前走两步
+    fast = fast.next.next;
+    // 如果 fast === slow，则两个指针相遇，就表示有环
+    if (fast === slow) return true;
   }
-  // 如果能结束循环，则表示找到环了
-  return true;
+  // 否则没有环
+  return false;
 };
 // @lc code=end
