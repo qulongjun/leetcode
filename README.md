@@ -71,6 +71,7 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :---: | :--------: |
 |0053|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [Solution](./easy/dynamic-programming/【0053】最大子序和.js)|Easy| 1 | 2020.09.30 |
+|0070|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [Solution](./easy/dynamic-programming/【0070】爬楼梯.js)|Easy| 1 | 2020.09.30 |
 
 #### Unknown
 
