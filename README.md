@@ -36,6 +36,7 @@ LeetCode
 |0083|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Solution](./easy/linked-list/【0083】删除排序链表中的重复元素.js)|Easy| 1 | 2020.09.25 |
 |0141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [Solution](./easy/linked-list/【0141】环形链表.js)|Easy| 2 | 2021.02.12 |
 |0206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Solution](./easy/linked-list/【0206】反转链表.js)|Easy| 1 | 2021.02.12 |
+|0237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Solution](./easy/linked-list/【0237】删除链表中的节点.js)|Easy| 1 | 2021.02.24 |
 
 #### String
 
