@@ -37,7 +37,7 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var reverseList_v1 = function (head) {
+var reverseList = function (head) {
   // 前后指针，cur 为当前需要改变 next 指向的节点，prev 表示上一个节点，初始为 null
   let prev = null,
     cur = head;
@@ -55,19 +55,6 @@ var reverseList_v1 = function (head) {
   }
 
   // 因为 cur 现在指向了 null，prev 就是最后一个节点了
-  return prev;
-};
-
-// =============================  2021 - 春季 =============================
-var reverseList = function (head) {
-  let prev = null,
-    cur = head;
-  while (cur !== null) {
-    let temp = cur.next;
-    cur.next = prev;
-    prev = cur;
-    cur = temp;
-  }
   return prev;
 };
 // @lc code=end

@@ -6,11 +6,11 @@
  * https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/
  *
  * algorithms
- * Easy (83.95%)
+ * Easy (83.96%)
  * Likes:    847
  * Dislikes: 0
- * Total Accepted:    157.8K
- * Total Submissions: 187.9K
+ * Total Accepted:    157.9K
+ * Total Submissions: 188K
  * Testcase Example:  '[4,5,1,9]\n5'
  *
  * 请编写一个函数，使其可以删除某个链表中给定的（非末尾）节点。传入函数的唯一参数为 要被删除的节点 。
