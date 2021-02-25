@@ -38,6 +38,9 @@ LeetCode
 |0206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Solution](./easy/linked-list/【0206】反转链表.js)|Easy| 2 | 2021.02.25 |
 |0237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Solution](./easy/linked-list/【0237】删除链表中的节点.js)|Easy| 1 | 2021.02.24 |
 
+#### Hash Table
+|0136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [Solution](./easy/hash-table/【0136】只出现一次的数字.js)|Easy| 1 | 2021.02.25 |
+
 #### String
 
 | # | 问题 | 解答 | 难度 | 刷题次数 | 最后刷题日期 |
