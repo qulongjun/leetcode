@@ -80,7 +80,29 @@ const getTree = (nums, start, end) => {
  * @param {number[]} nums
  * @return {TreeNode}
  */
+
+// var sortedArrayToBST_v1 = function (nums) {
+//   return getTree(nums, 0, nums.length - 1);
+// };
+
+// =============================  2021 - 春季 =============================
+
+function getTree_v2(nums, left, right) {
+  if (right < left || right < 0 || left < 0) return null;
+
+  const middle = left + parseInt((right - left) / 2);
+  
+  const rootNode = new TreeNode(
+    nums[middle],
+    getTree_v2(nums, left, middle - 1),
+    getTree_v2(nums, middle + 1, right)
+  );
+
+  return rootNode;
+}
+
 var sortedArrayToBST = function (nums) {
-  return getTree(nums, 0, nums.length - 1);
+  return getTree_v2(nums, 0, nums.length - 1);
 };
+
 // @lc code=end
