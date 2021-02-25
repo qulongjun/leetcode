@@ -15,6 +15,7 @@ LeetCode
 |0009|[回文数](https://leetcode-cn.com/problems/palindrome-number/) | [Solution](./easy/math/【0009】回文数.js)|Easy| 2 | 2020.09.23 |
 |0013|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [Solution](./easy/math/【0013】罗马数字转整数.js)|Easy| 1 | 2020.09.24 |
 |0168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [Solution](./easy/math/【0168】Excel表列名称.js)|Easy| 1 | 2020.10.30 |
+|0171|[Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Solution](./easy/math/【0171】Excel表列序号.js)|Easy| 1 | 2021.02.25 |
 
 #### Array
 
