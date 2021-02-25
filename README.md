@@ -36,8 +36,7 @@ LeetCode
 |0118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0118】杨辉三角.js)|Easy| 2021.02.25 |
 |0122|[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0122】买卖股票的最佳时机_ii.js)|Easy| 2021.02.25 |
 |0169|[多数元素](https://leetcode-cn.com/problems/majority-element/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0169】多数元素.js)|Easy| 2021.02.25 |
-|0283|[移动零](https://leetcode-cn.com/problems/move-zeroes/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0283】移动零.js)|Easy| 2020.09.27 |
-|0283|[移动零](https://leetcode-cn.com/problems/move-zeroes/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0283】移动零.js)|Easy| 2021.02.25 |
+|0283|[移动零](https://leetcode-cn.com/problems/move-zeroes/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0283】移动零.js) [【2021-春季】](./【进行中】2021-春季/easy/array/【0283】移动零.js)|Easy| 2021.02.25 |
 
 #### 链表
 
