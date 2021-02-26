@@ -59,7 +59,7 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0014|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0014】最长公共前缀.js)|Easy| 2020.09.24 |
-|0020|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0020】有效的括号.js)|Easy| 2020.09.24 |
+|0020|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0020】有效的括号.js)  [【2021-春季】](./【进行中】2021-春季/easy/string/【0020】有效的括号.js)|Easy| 2020.09.24 |
 |0028|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0028】实现_str_str.js)|Easy| 2020.09.24 |
 |0058|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0058】最后一个单词的长度.js)|Easy| 2020.09.24 |
 |0125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0125】验证回文串.js)|Easy| 2020.09.24 |
