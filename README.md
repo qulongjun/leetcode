@@ -45,6 +45,7 @@ LeetCode
 |0021|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [【2020-秋季】](./【完结】2020-秋季/easy/linked-list/【0021】合并两个有序链表.js) [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0021】合并两个有序链表.js)|Easy| 2021.02.25 |
 |0083|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [【2020-秋季】](./【完结】2020-秋季/easy/linked-list/【0083】删除排序链表中的重复元素.js)|Easy| 2020.09.25 |
 |0141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [【2020-秋季】](./【完结】2020-秋季/easy/linked-list/【0141】环形链表.js)|Easy| 2021.02.12 |
+|0160|[相交链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0160】相交链表.js)|Easy| 2021.02.26 |
 |0206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [【2020-秋季】](./【完结】2020-秋季/easy/linked-list/【0206】反转链表.js) [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0206】反转链表.js)|Easy| 2021.02.25 |
 |0237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0237】删除链表中的节点.js)|Easy|2021.02.24 |
 
