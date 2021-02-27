@@ -92,7 +92,7 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0053|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [【2020-秋季】](./【完结】2020-秋季/easy/dynamic-programming/【0053】最大子序和.js)|Easy| 2020.09.30 |
-|0070|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [【2020-秋季】](./【完结】2020-秋季/easy/dynamic-programming/【0070】爬楼梯.js)|Easy| 2020.09.30 |
+|0070|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [【2020-秋季】](./【完结】2020-秋季/easy/dynamic-programming/【0070】爬楼梯.js)  [【2021-春季】](./【进行中】2021-春季/easy/dynamic-programming/【0070】爬楼梯.js)|Easy| 2020.09.30 |
 
 #### 未知
 
