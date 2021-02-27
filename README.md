@@ -19,7 +19,7 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0007|[整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [【2021-春季】](./【进行中】2021-春季/easy/math/【0007】整数反转.js) |Easy|  2021.02.27 |
-|0009|[回文数](https://leetcode-cn.com/problems/palindrome-number/) | [【2020-秋季】](./【完结】2020-秋季/easy/math/【0009】回文数.js) |Easy|  2020.09.23 |
+|0009|[回文数](https://leetcode-cn.com/problems/palindrome-number/) | [【2020-秋季】](./【完结】2020-秋季/easy/math/【0009】回文数.js)  [【2021-春季】](./【进行中】2021-春季/easy/math/【0009】回文数.js) |Easy|  2020.09.23 |
 |0013|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [【2020-秋季】](./【完结】2020-秋季/easy/math/【0013】罗马数字转整数.js)|Easy| 2020.09.24 |
 |0168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [【2020-秋季】](./【完结】2020-秋季/easy/math/【0168】Excel表列名称.js)|Easy| 2020.10.30 |
 |0171|[Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [【2021-春季】](./【进行中】2021-春季/easy/math/【0171】Excel表列序号.js)|Easy| 2021.02.25 |
