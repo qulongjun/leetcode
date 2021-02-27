@@ -33,7 +33,7 @@ LeetCode
 |0027|[移除元素](https://leetcode-cn.com/problems/remove-element/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0027】移除元素.js)|Easy| 2020.09.24 |
 |0035|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0035】搜索插入位置.js)|Easy| 2020.09.24 |
 |0066|[加一](https://leetcode-cn.com/problems/plus-one/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0066】加一.js)|Easy| 2020.09.25 |
-|0088|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0088】合并两个有序数组.js)|Easy| 2020.09.27 |
+|0088|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0088】合并两个有序数组.js) [【2021-春季】](./【进行中】2021-春季/easy/array/【0088】合并两个有序数组.js)|Easy| 2021.02.27 |
 |0118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0118】杨辉三角.js)|Easy| 2021.02.25 |
 |0122|[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0122】买卖股票的最佳时机_ii.js)|Easy| 2021.02.25 |
 |0169|[多数元素](https://leetcode-cn.com/problems/majority-element/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0169】多数元素.js)|Easy| 2021.02.25 |
