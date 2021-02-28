@@ -76,7 +76,7 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0100|[相同的树](https://leetcode-cn.com/problems/same-tree/) | [【2020-秋季】](./【完结】2020-秋季/easy/tree/【0100】相同的树.js)|Easy| 2020.09.24 |
-|0101|[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [【2020-秋季】](./【完结】2020-秋季/easy/tree/【0101】对称二叉树.js)|Easy| 2020.09.25 |
+|0101|[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [【2020-秋季】](./【完结】2020-秋季/easy/tree/【0101】对称二叉树.js) [【2021-春季】](./【进行中】2021-春季/easy/tree/【0101】对称二叉树.js)|Easy| 2021.02.28 |
 |0104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [【2020-秋季】](./【完结】2020-秋季/easy/tree/【0104】二叉树的最大深度.js) [【2021-春季】](./【进行中】2021-春季/easy/tree/【0104】二叉树的最大深度.js)|Easy| 2021.02.24 |
 |0107|[二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [【2020-秋季】](./【完结】2020-秋季/easy/tree/【0107】二叉树的层次遍历_ii.js)|Easy| 2020.09.25 |
 |0108|[将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [【2020-秋季】](./【完结】2020-秋季/easy/tree/【0108】将有序数组转换为二叉搜索树.js) [【2021-春季】](./【进行中】2021-春季/easy/tree/【0108】将有序数组转换为二叉搜索树.js)|Easy| 2021.02.25 |
