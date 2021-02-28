@@ -59,6 +59,7 @@ LeetCode
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [【2021-春季】](./【进行中】2021-春季/easy/hash-table/【0136】只出现一次的数字.js)|Easy| 2021.02.25 |
 |0242|[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [【2021-春季】](./【进行中】2021-春季/easy/hash-table/【0242】有效的字母异位词.js)|Easy| 2021.02.25 |
+|0387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [【2021-春季】](./【进行中】2021-春季/easy/hash-table/【0387】字符串中的第一个唯一字符.js)|Easy| 2021.03.01 |
 
 #### 字符串
 
