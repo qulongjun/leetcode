@@ -136,8 +136,8 @@ LeetCode
 |0144|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0144】二叉树的前序遍历.js)|Medium| 2020.09.25 |
 |0145|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0145】二叉树的后序遍历.js)|Medium| 2020.09.29 |
 |0199|[二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0199】二叉树的右视图.js)|Medium| 2020.09.26 |
-|0230|[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0230】二叉搜索树中第K小的元素.js)|Medium| 2021.02.11 |
-|0236|[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0236】二叉树的最近公共祖先.js)  [【2021-春季】](./【进行中】2021-春季/medium/tree/【0236】二叉树的最近公共祖先.js)|Medium| 2021.02.11 |
+|0230|[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0230】二叉搜索树中第K小的元素.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0230】二叉搜索树中第K小的元素.js)|Medium| 2021.02.28 |
+|0236|[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0236】二叉树的最近公共祖先.js)  [【2021-春季】](./【进行中】2021-春季/medium/tree/【0236】二叉树的最近公共祖先.js)|Medium| 2021.02.28 |
 
 #### 字符串
 
