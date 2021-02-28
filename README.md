@@ -122,7 +122,7 @@ LeetCode
 
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
-|0094|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0094】二叉树的中序遍历.js)|Medium| 2020.09.24 |
+|0094|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0094】二叉树的中序遍历.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0094】二叉树的中序遍历.js)|Medium| 2021.02.28 |
 |0098|[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0098】验证二叉搜索树.js)|Medium| 2020.09.25 |
 |0102|[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0102】二叉树的层序遍历.js)|Medium| 2020.09.25 |
 |0103|[二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0103】二叉树的锯齿形层次遍历.js)|Medium| 2020.09.25 |
