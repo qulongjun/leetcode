@@ -153,7 +153,7 @@ LeetCode
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0019|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0019】删除链表的倒数第N个节点.js)|Medium| 2020.09.26 |
 |0142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0142】环形链表_ii.js)|Medium| 2021.02.1 |
-|0148|[排序链表](https://leetcode-cn.com/problems/sort-list/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0148】排序链表.js)|Medium| 2021.02.11 |
+|0148|[排序链表](https://leetcode-cn.com/problems/sort-list/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0148】排序链表.js) [【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0148】排序链表.js)|Medium| 2021.02.28 |
 
 #### 数组
 
