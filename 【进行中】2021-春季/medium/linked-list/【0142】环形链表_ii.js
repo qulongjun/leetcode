@@ -90,15 +90,20 @@ var detectCycle = function (head) {
   // 定义快慢指针，快指针一次走两步，慢指针一次走一步
   let fast = head,
     slow = head;
+  // 标志符，标记是否有环
+  let isCycle = false;
   // 快指针没走完就一直走下去，结束条件是 快指针 === 慢指针，不限于 两者都为同一个节点（有环），或者都为 null（没环）
   while (fast !== null && fast.next !== null) {
     fast = fast.next.next;
     slow = slow.next;
-    if (fast === slow) break;
+    if (fast === slow) {
+      isCycle = true;
+      break;
+    }
   }
 
-  // 如果慢指针不为 null，则表示有环
-  if (slow !== null) {
+  // 如果有环
+  if (isCycle) {
     // 然后定义一个新的指针，指向 head， 和 slow 指针同时走，两者相遇的地方就是入环口
     let pointer = head;
     while (pointer !== slow) {
