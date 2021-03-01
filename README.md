@@ -24,6 +24,7 @@ LeetCode
 |0168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [【2020-秋季】](./【完结】2020-秋季/easy/math/【0168】Excel表列名称.js)|Easy| 2020.10.30 |
 |0171|[Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [【2021-春季】](./【进行中】2021-春季/easy/math/【0171】Excel表列序号.js)|Easy| 2021.02.25 |
 |0202|[快乐数](https://leetcode-cn.com/problems/happy-number/) | [【2021-春季】](./【进行中】2021-春季/easy/math/【0202】快乐数.js)|Easy| 2021.02.28 |
+|0326|[3的幂](https://leetcode-cn.com/problems/power-of-three/) | [【2021-春季】](./【进行中】2021-春季/easy/math/【0326】3_的幂.js)|Easy| 2021.03.01 |
 
 #### 数组
 
