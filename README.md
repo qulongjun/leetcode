@@ -30,7 +30,7 @@ LeetCode
 
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :---: | :--------: |
-|0001|[两数之和](https://leetcode-cn.com/problems/two-sum/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0001】两数之和.js)| Easy | 2020.09.23 |
+|0001|[两数之和](https://leetcode-cn.com/problems/two-sum/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0001】两数之和.js) [【2021-春季】](./【进行中】2021-春季/easy/array/【0001】两数之和.js)| Easy | 2021.03.01 |
 |0026|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0026】删除排序数组中的重复项.js) [【2021-春季】](./【进行中】2021-春季/easy/array/【0026】删除排序数组中的重复项.js)|Easy| 2021.02.27 |
 |0027|[移除元素](https://leetcode-cn.com/problems/remove-element/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0027】移除元素.js)|Easy| 2020.09.24 |
 |0035|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0035】搜索插入位置.js)|Easy| 2020.09.24 |
