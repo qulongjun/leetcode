@@ -51,6 +51,7 @@ LeetCode
 |0141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [【2020-秋季】](./【完结】2020-秋季/easy/linked-list/【0141】环形链表.js)  [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0141】环形链表.js)|Easy| 2021.02.27 |
 |0160|[相交链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0160】相交链表.js)|Easy| 2021.02.26 |
 |0206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [【2020-秋季】](./【完结】2020-秋季/easy/linked-list/【0206】反转链表.js) [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0206】反转链表.js)|Easy| 2021.02.25 |
+|0234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0234】回文链表.js)|Easy|2021.03.01 |
 |0237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0237】删除链表中的节点.js)|Easy|2021.02.24 |
 
 #### 哈希表
