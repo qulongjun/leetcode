@@ -24,16 +24,17 @@ LeetCode
 |0168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [【2020-秋季】](./【完结】2020-秋季/easy/math/【0168】Excel表列名称.js)|Easy| 2020.10.30 |
 |0171|[Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [【2021-春季】](./【进行中】2021-春季/easy/math/【0171】Excel表列序号.js)|Easy| 2021.02.25 |
 |0202|[快乐数](https://leetcode-cn.com/problems/happy-number/) | [【2021-春季】](./【进行中】2021-春季/easy/math/【0202】快乐数.js)|Easy| 2021.02.28 |
+|0326|[3的幂](https://leetcode-cn.com/problems/power-of-three/) | [【2021-春季】](./【进行中】2021-春季/easy/math/【0326】3_的幂.js)|Easy| 2021.03.01 |
 
 #### 数组
 
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :---: | :--------: |
-|0001|[两数之和](https://leetcode-cn.com/problems/two-sum/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0001】两数之和.js)| Easy | 2020.09.23 |
+|0001|[两数之和](https://leetcode-cn.com/problems/two-sum/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0001】两数之和.js) [【2021-春季】](./【进行中】2021-春季/easy/array/【0001】两数之和.js)| Easy | 2021.03.01 |
 |0026|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0026】删除排序数组中的重复项.js) [【2021-春季】](./【进行中】2021-春季/easy/array/【0026】删除排序数组中的重复项.js)|Easy| 2021.02.27 |
 |0027|[移除元素](https://leetcode-cn.com/problems/remove-element/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0027】移除元素.js)|Easy| 2020.09.24 |
 |0035|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0035】搜索插入位置.js)|Easy| 2020.09.24 |
-|0066|[加一](https://leetcode-cn.com/problems/plus-one/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0066】加一.js)|Easy| 2020.09.25 |
+|0066|[加一](https://leetcode-cn.com/problems/plus-one/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0066】加一.js) [【2021-春季】](./【进行中】2021-春季/easy/array/【0066】加一.js)|Easy| 2021.03.01 |
 |0088|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0088】合并两个有序数组.js) [【2021-春季】](./【进行中】2021-春季/easy/array/【0088】合并两个有序数组.js)|Easy| 2021.02.27 |
 |0118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0118】杨辉三角.js)|Easy| 2021.02.25 |
 |0122|[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0122】买卖股票的最佳时机_ii.js)|Easy| 2021.02.25 |
@@ -51,6 +52,7 @@ LeetCode
 |0141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [【2020-秋季】](./【完结】2020-秋季/easy/linked-list/【0141】环形链表.js)  [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0141】环形链表.js)|Easy| 2021.02.27 |
 |0160|[相交链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0160】相交链表.js)|Easy| 2021.02.26 |
 |0206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [【2020-秋季】](./【完结】2020-秋季/easy/linked-list/【0206】反转链表.js) [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0206】反转链表.js)|Easy| 2021.02.25 |
+|0234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0234】回文链表.js)|Easy|2021.03.01 |
 |0237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [【2021-春季】](./【进行中】2021-春季/easy/linked-list/【0237】删除链表中的节点.js)|Easy|2021.02.24 |
 
 #### 哈希表
@@ -71,7 +73,7 @@ LeetCode
 |0028|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0028】实现_str_str.js) [【2021-春季】](./【进行中】2021-春季/easy/string/【0028】实现_str_str.js)|Easy| 2020.09.24 |
 |0038|[外观数列](https://leetcode-cn.com/problems/count-and-say/) | [【2021-春季】](./【进行中】2021-春季/easy/string/【0038】外观数列.js)|Easy| 2021.03.02 |
 |0058|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0058】最后一个单词的长度.js)|Easy| 2020.09.24 |
-|0125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0125】验证回文串.js)|Easy| 2020.09.24 |
+|0125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0125】验证回文串.js) [【2021-春季】](./【进行中】2021-春季/easy/string/【0125】验证回文串.js)|Easy| 2021.03.01 |
 |0344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0344】反转字符串.js) [【2021-春季】](./【进行中】2021-春季/easy/string/【0344】反转字符串.js)|Easy| 2021.02.25 |
 |0557|[反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [【2021-春季】](./【进行中】2021-春季/easy/string/【0557】反转字符串中的单词_iii.js)|Easy| 2021.02.27 |
 
