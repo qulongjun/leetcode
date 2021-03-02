@@ -197,7 +197,7 @@ LeetCode
 |0046|[全排列](https://leetcode-cn.com/problems/permutations/) | [【2020-秋季】](./【完结】2020-秋季/medium/backtracking/【0046】全排列.js) [【2021-春季】](./【进行中】2021-春季/medium/backtracking/【0046】全排列.js)|Medium| 2021.02.28 |
 |0078|[子集](https://leetcode-cn.com/problems/subsets/) | [【2020-秋季】](./【完结】2020-秋季/medium/backtracking/【0078】子集.js) [【2021-春季】](./【进行中】2021-春季/medium/backtracking/【0078】子集.js)|Medium| 2021.02.28 |
 |0077|[单词搜索](https://leetcode-cn.com/problems/word-search/) | [【2020-秋季】](./【完结】2020-秋季/medium/backtracking/【0079】单词搜索.js)|Medium| 2021.02.11 |
-|0131|[子集](https://leetcode-cn.com/problems/palindrome-partitioning/) | [【2020-秋季】](./【完结】2020-秋季/medium/backtracking/【0131】分割回文串.js)|Medium| 2021.02.11 |
+|0131|[子集](https://leetcode-cn.com/problems/palindrome-partitioning/) | [【2020-秋季】](./【完结】2020-秋季/medium/backtracking/【0131】分割回文串.js) [【2021-春季】](./【进行中】2021-春季/medium/backtracking/【0131】分割回文串.js)|Medium| 2021.03.02 |
 
 #### 未知
 
