@@ -154,6 +154,7 @@ LeetCode
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0003|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [【2020-秋季】](./【完结】2020-秋季/medium/string/【0003】无重复字符的最长子串.js)|Medium| 2020.09.26 |
 |0006|[Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [【2020-秋季】](./【完结】2020-秋季/medium/string/【0006】z_字形变换.js)|Medium| 2020.09.26 |
+|0008|[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [【2021-春季】](./【进行中】2021-春季/medium/string/【0008】字符串转换整数_atoi.js)|Medium| 2021.03.04 |
 
 
 #### 链表
