@@ -42,6 +42,7 @@ LeetCode
 |0217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0217】存在重复元素.js)|Easy| 2021.02.27 |
 |0268|[丢失的数字](https://leetcode-cn.com/problems/missing-number/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0268】丢失的数字.js)|Easy| 2021.02.26 |
 |0283|[移动零](https://leetcode-cn.com/problems/move-zeroes/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0283】移动零.js) [【2021-春季】](./【进行中】2021-春季/easy/array/【0283】移动零.js)|Easy| 2021.02.25 |
+|0448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0448】找到所有数组中消失的数字.js)|Easy| 2021.03.04 |
 
 #### 链表
 
