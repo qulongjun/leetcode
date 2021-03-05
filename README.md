@@ -161,6 +161,7 @@ LeetCode
 
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
+|0002|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/) |[【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0002】两数相加.js)|Medium| 2021.03.05 |
 |0019|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0019】删除链表的倒数第N个节点.js)|Medium| 2020.09.26 |
 |0061|[旋转链表](https://leetcode-cn.com/problems/rotate-list/) |  [【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0061】旋转链表.js) |Medium| 2021.02.28 |
 |0142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0142】环形链表_ii.js)  [【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0142】环形链表_ii.js)|Medium| 2021.02.1 |
@@ -175,7 +176,7 @@ LeetCode
 |0018|[四数之和](https://leetcode-cn.com/problems/4sum/) | [【2020-秋季】](./【完结】2020-秋季/medium/array/【0018】四数之和.js)|Medium| 2020.09.28 |
 |0048|[旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [【2021-春季】](./【进行中】2021-春季/medium/array/【0048】旋转图像.js)|Medium| 2021.03.02 |
 |0238|[寻找重复数](https://leetcode-cn.com/problems/product-of-array-except-self/) | [【2020-秋季】](./【完结】2020-秋季/medium/array/【0238】除自身以外数组的乘积.js) [【2021-春季】](./【进行中】2021-春季/medium/array/【0238】除自身以外数组的乘积.js)|Medium| 2021.03.02 |
-|0287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [【2020-秋季】](./【完结】2020-秋季/medium/array/【0287】寻找重复数.js) [【2021-春季】](./【进行中】2021-春季/medium/array/【0287】寻找重复数.js)|Medium| 2021.02.11 |
+|0287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [【2020-秋季】](./【完结】2020-秋季/medium/array/【0287】寻找重复数.js)|Medium| 2021.02.11 |
 
 #### 堆
 
