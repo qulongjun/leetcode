@@ -140,7 +140,7 @@ LeetCode
 |0106|[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0106】从中序与后序遍历序列构造二叉树.js)|Medium| 2020.09.25 |
 |0113|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0113】路径总和_ii.js)|Medium| 2020.09.26 |
 |0114|[二叉树展开为链表](flatten-binary-tree-to-linked-list/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0114】二叉树展开为链表.js)|Medium| 2021.02.08 |
-|0116|[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0116】填充每个节点的下一个右侧节点指针.js)|Medium| 2021.02.09 |
+|0116|[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0116】填充每个节点的下一个右侧节点指针.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0116】填充每个节点的下一个右侧节点指针.js)|Medium| 2021.03.05 |
 |0117|[填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0117】填充每个节点的下一个右侧节点指针_ii.js)|Medium| 2021.02.09 |
 |0129|[求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0129】求根到叶子节点数字之和.js)|Medium| 2020.09.26 |
 |0144|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0144】二叉树的前序遍历.js)|Medium| 2020.09.25 |
