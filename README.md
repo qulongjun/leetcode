@@ -163,7 +163,7 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0002|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/) |[【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0002】两数相加.js)|Medium| 2021.03.05 |
-|0019|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0019】删除链表的倒数第N个节点.js)|Medium| 2020.09.26 |
+|0019|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0019】删除链表的倒数第_n_个结点.js) [【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0142】环形链表_ii.js)|Medium| 2021.03.05 |
 |0061|[旋转链表](https://leetcode-cn.com/problems/rotate-list/) |  [【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0061】旋转链表.js) |Medium| 2021.02.28 |
 |0142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0142】环形链表_ii.js)  [【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0142】环形链表_ii.js)|Medium| 2021.02.1 |
 |0147|[对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) |[【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0147】对链表进行插入排序.js)|Medium| 2021.02.28 |
