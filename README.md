@@ -168,6 +168,7 @@ LeetCode
 |0142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0142】环形链表_ii.js)  [【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0142】环形链表_ii.js)|Medium| 2021.02.1 |
 |0147|[对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) |[【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0147】对链表进行插入排序.js)|Medium| 2021.02.28 |
 |0148|[排序链表](https://leetcode-cn.com/problems/sort-list/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0148】排序链表.js) [【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0148】排序链表.js)|Medium| 2021.02.28 |
+|0328|[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0328】奇偶链表.js)|Medium| 2021.03.05 |
 
 #### 数组
 
