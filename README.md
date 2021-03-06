@@ -137,7 +137,7 @@ LeetCode
 |0102|[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0102】二叉树的层序遍历.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0102】二叉树的层序遍历.js)|Medium| 2021.03.03 |
 |0103|[二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0103】二叉树的锯齿形层次遍历.js)  [【2021-春季】](./【进行中】2021-春季/medium/tree/【0103】二叉树的锯齿形层次遍历.js)|Medium| 2021.03.03 |
 |0105|[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0105】从前序与中序遍历序列构造二叉树.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0105】从前序与中序遍历序列构造二叉树.js)|Medium| 2021.03.06 |
-|0106|[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0106】从中序与后序遍历序列构造二叉树.js)|Medium| 2020.09.25 |
+|0106|[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0106】从中序与后序遍历序列构造二叉树.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0106】从中序与后序遍历序列构造二叉树.js)|Medium| 2021.03.06 |
 |0113|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0113】路径总和_ii.js)|Medium| 2020.09.26 |
 |0114|[二叉树展开为链表](flatten-binary-tree-to-linked-list/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0114】二叉树展开为链表.js)|Medium| 2021.02.08 |
 |0116|[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0116】填充每个节点的下一个右侧节点指针.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0116】填充每个节点的下一个右侧节点指针.js)|Medium| 2021.03.05 |
