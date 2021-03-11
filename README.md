@@ -183,7 +183,7 @@ LeetCode
 
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
-|0215|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [【2021-春季】](./【进行中】2021-春季/medium/heap/【0215】数组中的第K个最大元素.js)|Medium| 2021.03.02 |
+|0215|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [【2021-春季】](./【进行中】2021-春季/medium/heap/【0215】数组中的第k个最大元素.js)|Medium| 2021.03.02 |
 
 #### 动态规划
 
