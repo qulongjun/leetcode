@@ -75,7 +75,7 @@ LeetCode
 |0020|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0020】有效的括号.js)  [【2021-春季】](./【进行中】2021-春季/easy/string/【0020】有效的括号.js) |Easy| 2020.09.24 |
 |0028|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0028】实现_str_str.js) [【2021-春季】](./【进行中】2021-春季/easy/string/【0028】实现_str_str.js)|Easy| 2020.09.24 |
 |0038|[外观数列](https://leetcode-cn.com/problems/count-and-say/) | [【2021-春季】](./【进行中】2021-春季/easy/string/【0038】外观数列.js)|Easy| 2021.03.02 |
-|0058|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0058】最后一个单词的长度.js)|Easy| 2020.09.24 |
+|0058|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0058】最后一个单词的长度.js) [【2021-春季】](./【进行中】2021-春季/easy/string/【0058】最后一个单词的长度.js)|Easy| 2021.03.06 |
 |0125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0125】验证回文串.js) [【2021-春季】](./【进行中】2021-春季/easy/string/【0125】验证回文串.js)|Easy| 2021.03.01 |
 |0344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [【2020-秋季】](./【完结】2020-秋季/easy/string/【0344】反转字符串.js) [【2021-春季】](./【进行中】2021-春季/easy/string/【0344】反转字符串.js)|Easy| 2021.02.25 |
 |0557|[反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [【2021-春季】](./【进行中】2021-春季/easy/string/【0557】反转字符串中的单词_iii.js)|Easy| 2021.02.27 |
@@ -133,14 +133,14 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0094|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0094】二叉树的中序遍历.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0094】二叉树的中序遍历.js)|Medium| 2021.02.28 |
-|0098|[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0098】验证二叉搜索树.js)|Medium| 2020.09.25 |
+|0098|[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0098】验证二叉搜索树.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0098】验证二叉搜索树.js)|Medium| 2021.03.05 |
 |0102|[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0102】二叉树的层序遍历.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0102】二叉树的层序遍历.js)|Medium| 2021.03.03 |
 |0103|[二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0103】二叉树的锯齿形层次遍历.js)  [【2021-春季】](./【进行中】2021-春季/medium/tree/【0103】二叉树的锯齿形层次遍历.js)|Medium| 2021.03.03 |
-|0105|[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0105】从前序与中序遍历序列构造二叉树.js)|Medium| 2020.09.25 |
-|0106|[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0106】从中序与后序遍历序列构造二叉树.js)|Medium| 2020.09.25 |
+|0105|[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0105】从前序与中序遍历序列构造二叉树.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0105】从前序与中序遍历序列构造二叉树.js)|Medium| 2021.03.06 |
+|0106|[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0106】从中序与后序遍历序列构造二叉树.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0106】从中序与后序遍历序列构造二叉树.js)|Medium| 2021.03.06 |
 |0113|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0113】路径总和_ii.js)|Medium| 2020.09.26 |
 |0114|[二叉树展开为链表](flatten-binary-tree-to-linked-list/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0114】二叉树展开为链表.js)|Medium| 2021.02.08 |
-|0116|[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0116】填充每个节点的下一个右侧节点指针.js)|Medium| 2021.02.09 |
+|0116|[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0116】填充每个节点的下一个右侧节点指针.js) [【2021-春季】](./【进行中】2021-春季/medium/tree/【0116】填充每个节点的下一个右侧节点指针.js)|Medium| 2021.03.05 |
 |0117|[填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0117】填充每个节点的下一个右侧节点指针_ii.js)|Medium| 2021.02.09 |
 |0129|[求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0129】求根到叶子节点数字之和.js)|Medium| 2020.09.26 |
 |0144|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [【2020-秋季】](./【完结】2020-秋季/medium/tree/【0144】二叉树的前序遍历.js)|Medium| 2020.09.25 |
@@ -168,6 +168,7 @@ LeetCode
 |0142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0142】环形链表_ii.js)  [【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0142】环形链表_ii.js)|Medium| 2021.02.1 |
 |0147|[对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) |[【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0147】对链表进行插入排序.js)|Medium| 2021.02.28 |
 |0148|[排序链表](https://leetcode-cn.com/problems/sort-list/) | [【2020-秋季】](./【完结】2020-秋季/medium/linked-list/【0148】排序链表.js) [【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0148】排序链表.js)|Medium| 2021.02.28 |
+|0328|[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [【2021-春季】](./【进行中】2021-春季/medium/linked-list/【0328】奇偶链表.js)|Medium| 2021.03.05 |
 
 #### 数组
 
@@ -184,6 +185,12 @@ LeetCode
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0215|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [【2021-春季】](./【进行中】2021-春季/medium/heap/【0215】数组中的第k个最大元素.js)|Medium| 2021.03.02 |
+
+#### 哈希表
+
+| # | 问题 | 解答 | 难度 | 最后刷题日期 |
+|:---:| :-----: | :--------: | :----------: | :--------: |
+|0049|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [【2021-春季】](./【进行中】2021-春季/medium/hash-table/【0049】字母异位词分组.js)|Medium| 2021.03.06 |
 
 #### 动态规划
 
