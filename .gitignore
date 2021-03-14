@@ -2,3 +2,6 @@
 .idea
 .vscode
 .vim
+
+_book
+node_modules
