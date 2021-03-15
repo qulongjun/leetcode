@@ -24,7 +24,7 @@ taskPool.prototype.run = function(){
         var currTask = this.tasks.shift();
         this.pool.push(currTask);
         currTask().then(res=>{
-            console.log(new Date().getTime() - startTime);
+            // TODO anything when success
         }).catch(err=>{
             console.log('err', err);
         }).finally(()=>{

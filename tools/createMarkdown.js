@@ -63,7 +63,7 @@ function renderTemplate(renderList) {
         if (questionBuf[i].indexOf(' * https://leetcode-cn.com/problems/') !== -1) {
             const questionTitle = questionBuf[i].replace(' * https://leetcode-cn.com/problems/', '').replace('/description/', '');
             getProblem(questionTitle).then(res => {
-
+                console.log('正在渲染：', questionTitle);
                 header.push(`<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">${res.id}. ${res.translatedTitle}</div>`);
 
                 header.push(`<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: ${ProblemDifficultyColor[res.difficulty]};">${ProblemDifficulty[res.difficulty]}</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;${res.tag.length === 0 ? '暂无' : res.tag.map(item => `<code>${item}</code>`).join('&nbsp;')}</span></div><div><span style="margin-right: 15px;"><a href="${'https://leetcode.com/problems/'+ questionTitle + '/'}">英文原题</a></span><span><a href="${'https://leetcode-cn.com/problems/'+ questionTitle + '/'}">访问源站</a></span></div>`);
@@ -73,7 +73,6 @@ function renderTemplate(renderList) {
                 questionData.push(res.translatedContent);
 
                 for (let i = renderList.length - 1; i >= 0; i--) {
-                    console.log(renderList[i]);
                     let data = fs.readFileSync(renderList[i], 'utf8').split(/\r\n|\n|\r/gm);
                     let isEnter = false;
                     for (let j = 0; j < data.length; j++) {
@@ -91,17 +90,12 @@ function renderTemplate(renderList) {
                         }
                         if (isEnter) answerData.push(data[j]);
                     }
-                    writeFileToLine([...header, ...questionData, ...answerData], '${data}', path.resolve('./tools/template/' + renderList[i].split('/').pop().split('.js').shift() + '.md'));
+                    writeFileToLine([...header, ...questionData, ...answerData], '${data}', path.resolve('./tools/tpl/' + renderList[i].split('/').pop().split('.js').shift() + '.md'));
                 }
             });
             break;
         }
     }
-
-
-
-    // console.log(questionData)
-    // console.log(answerData);
 }
 
 module.exports = generatorContext;
