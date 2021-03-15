@@ -40,9 +40,8 @@ fs.readdir(pathName, function (err, files) {
             times.push(file.split('】')[1])
         }
     }
-    generatorItemList(generatorSummary(dirList));
-    // generatorContext(dirList);
-
+    // generatorItemList(generatorSummary(dirList));
+    generatorContext(dirList);
 });
 
 const generatorSummary = function (dirList) {
@@ -74,7 +73,7 @@ const generatorSummary = function (dirList) {
 
 
 function generatorItemList(summaryMap) {
-    let summaryStr = '';
+    let summaryStr = '# Summary\n\n* [Introduction](README.md)\n';
 
     for (let difficult in summaryMap) {
         summaryStr += generatorItem(DIFFICULT_MAP[difficult] || difficult, 0, './tools/markdowns/' + difficult + '.md');
@@ -105,7 +104,7 @@ function generatorMenu(difficult, tag, dataSource) {
     results.push('');
     if(tag === null){
         for(let tagName in dataSource) {
-            results.push('* ['+tagName+'](./tools/markdowns/'+difficult+'_'+tagName+'.md)');
+            results.push('* ['+TAG_MAP[tagName]+'](/tools/markdowns/'+difficult+'_'+tagName+'.md)');
         }
         writeFileToLine(results, '', path.resolve('./tools/markdowns/'+difficult+'.md'));
     } else {
@@ -127,8 +126,8 @@ function generatorItem(item, level, link) {
 }
 
 function writeToSummary(summary) {
-    // if(fs.existsSync('./SUMMARY.md')){
-    //     fs.unlinkSync('./SUMMARY.md');
-    // }
-    writeFileToLine(summary, '${content}', path.resolve('./SUMMARY.md'));
+    if(fs.existsSync('./SUMMARY.md')){
+        fs.unlinkSync('./SUMMARY.md');
+    }
+    writeFileToLine(summary, '', path.resolve('./SUMMARY.md'));
 }

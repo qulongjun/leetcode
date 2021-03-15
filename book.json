@@ -1,7 +1,7 @@
 {
     "title": "LeetCode",
     "author": "瞿龙俊",
-    "description": "记录Gitbook的配置和一些插件的使用",
+    "description": "LeetCode solutions with JavaScript",
     "language": "zh-hans",
     "plugins": [
         "-lunr",
@@ -12,10 +12,14 @@
         "expandable-chapters-small",
         "tbfed-pagefooter",
         "splitter",
-        "accordion",
         "prism",
         "prism-themes",
-        "-highlight"
+        "-highlight",
+        "hide-element",
+        "pageview-count",
+        "github",
+        "insert-logo",
+        "copy-code-button"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
@@ -25,8 +29,18 @@
         },
         "prism": {
             "css": [
-              "prism-themes/themes/prism-material-light.css"
+                "prism-themes/themes/prism-material-light.css"
             ]
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "github": {
+            "url": "https://github.com/qulongjun/leetcode"
+        },
+        "insert-logo": {
+            "url": "tools/images/leetcode.png",
+            "style": "background: none; max-height: 30px; min-height: 30px"
           }
     }
 }

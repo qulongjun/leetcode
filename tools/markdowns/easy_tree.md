@@ -1,8 +1,8 @@
 <div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">树型类型</div>
 <hr style="height: 1px; margin: 1em 0px;" />
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">树型类型</div>,<hr style="height: 1px; margin: 1em 0px;" />,,当前分类下有如下内容：,,* [【0100】相同的树](/tools/tpl/【0100】相同的树.md),* [【0101】对称二叉树](/tools/tpl/【0101】对称二叉树.md),* [【0104】二叉树的最大深度](/tools/tpl/【0104】二叉树的最大深度.md),* [【0107】二叉树的层次遍历_ii](/tools/tpl/【0107】二叉树的层次遍历_ii.md),* [【0108】将有序数组转换为二叉搜索树](/tools/tpl/【0108】将有序数组转换为二叉搜索树.md),* [【0110】平衡二叉树](/tools/tpl/【0110】平衡二叉树.md),* [【0111】二叉树的最小深度](/tools/tpl/【0111】二叉树的最小深度.md),* [【0112】路径总和](/tools/tpl/【0112】路径总和.md),* [【0226】翻转二叉树](/tools/tpl/【0226】翻转二叉树.md),* [【0235】二叉搜索树的最近公共祖先](/tools/tpl/【0235】二叉搜索树的最近公共祖先.md),* [【0509】斐波那契数](/tools/tpl/【0509】斐波那契数.md),* [【0543】二叉树的直径](/tools/tpl/【0543】二叉树的直径.md),* [【0617】合并二叉树](/tools/tpl/【0617】合并二叉树.md)
+
 当前分类下有如下内容：
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">树型类型</div>,<hr style="height: 1px; margin: 1em 0px;" />,,当前分类下有如下内容：,,* [【0100】相同的树](/tools/tpl/【0100】相同的树.md),* [【0101】对称二叉树](/tools/tpl/【0101】对称二叉树.md),* [【0104】二叉树的最大深度](/tools/tpl/【0104】二叉树的最大深度.md),* [【0107】二叉树的层次遍历_ii](/tools/tpl/【0107】二叉树的层次遍历_ii.md),* [【0108】将有序数组转换为二叉搜索树](/tools/tpl/【0108】将有序数组转换为二叉搜索树.md),* [【0110】平衡二叉树](/tools/tpl/【0110】平衡二叉树.md),* [【0111】二叉树的最小深度](/tools/tpl/【0111】二叉树的最小深度.md),* [【0112】路径总和](/tools/tpl/【0112】路径总和.md),* [【0226】翻转二叉树](/tools/tpl/【0226】翻转二叉树.md),* [【0235】二叉搜索树的最近公共祖先](/tools/tpl/【0235】二叉搜索树的最近公共祖先.md),* [【0509】斐波那契数](/tools/tpl/【0509】斐波那契数.md),* [【0543】二叉树的直径](/tools/tpl/【0543】二叉树的直径.md),* [【0617】合并二叉树](/tools/tpl/【0617】合并二叉树.md)
+
 * [【0100】相同的树](/tools/tpl/【0100】相同的树.md)
 * [【0101】对称二叉树](/tools/tpl/【0101】对称二叉树.md)
 * [【0104】二叉树的最大深度](/tools/tpl/【0104】二叉树的最大深度.md)

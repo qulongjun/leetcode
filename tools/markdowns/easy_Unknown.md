@@ -1,8 +1,8 @@
 <div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">未分类</div>
 <hr style="height: 1px; margin: 1em 0px;" />
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">未分类</div>,<hr style="height: 1px; margin: 1em 0px;" />,,当前分类下有如下内容：,,* [【0412】fizz_buzz](/tools/tpl/【0412】fizz_buzz.md),* [【1480】一维数组的动态和](/tools/tpl/【1480】一维数组的动态和.md),* [【1550】存在连续三个奇数的数组](/tools/tpl/【1550】存在连续三个奇数的数组.md)
+
 当前分类下有如下内容：
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">未分类</div>,<hr style="height: 1px; margin: 1em 0px;" />,,当前分类下有如下内容：,,* [【0412】fizz_buzz](/tools/tpl/【0412】fizz_buzz.md),* [【1480】一维数组的动态和](/tools/tpl/【1480】一维数组的动态和.md),* [【1550】存在连续三个奇数的数组](/tools/tpl/【1550】存在连续三个奇数的数组.md)
+
 * [【0412】fizz_buzz](/tools/tpl/【0412】fizz_buzz.md)
 * [【1480】一维数组的动态和](/tools/tpl/【1480】一维数组的动态和.md)
 * [【1550】存在连续三个奇数的数组](/tools/tpl/【1550】存在连续三个奇数的数组.md)
