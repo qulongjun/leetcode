@@ -114,8 +114,6 @@ function generatorMenu(difficult, tag, dataSource) {
         }
         writeFileToLine(results, '', path.resolve('./tools/markdowns/'+difficult+'_'+tag+'.md'));
     }
-
-    console.log(difficult, tag, dataSource);
 }
 
 function generatorItem(item, level, link) {
@@ -129,5 +127,8 @@ function generatorItem(item, level, link) {
 }
 
 function writeToSummary(summary) {
+    // if(fs.existsSync('./SUMMARY.md')){
+    //     fs.unlinkSync('./SUMMARY.md');
+    // }
     writeFileToLine(summary, '${content}', path.resolve('./SUMMARY.md'));
 }

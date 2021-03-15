@@ -90,7 +90,13 @@ function renderTemplate(renderList) {
                         }
                         if (isEnter) answerData.push(data[j]);
                     }
-                    writeFileToLine([...header, ...questionData, ...answerData], '${data}', path.resolve('./tools/tpl/' + renderList[i].split('/').pop().split('.js').shift() + '.md'));
+                    const filePath = path.resolve('./tools/tpl/' + renderList[i].split('/').pop().split('.js').shift() + '.md');
+                    
+                    if(fs.existsSync(filePath)){
+                        fs.unlinkSync(filePath);
+                    }
+
+                    writeFileToLine([...header, ...questionData, ...answerData], '${data}', filePath);
                 }
             });
             break;

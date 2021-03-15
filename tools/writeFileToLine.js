@@ -4,7 +4,7 @@ var fs = require("fs");
 function writeFileToLine(value, prefix, path) {
     fs.access(path, err => {
         if (err && err.code == "ENOENT") {
-            fs.writeFileSync(path, value.join('\r\n'))
+            fs.writeFileSync(path, Array.isArray(value)? value.join('\r\n'): value)
         } else {
             // readFileSync的第一个参数是文件名
             let data = fs.readFileSync(path, 'utf8').split(/\r\n|\n|\r/gm);
