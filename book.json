@@ -39,8 +39,8 @@
             "url": "https://github.com/qulongjun/leetcode"
         },
         "insert-logo": {
-            "url": "tools/images/leetcode.png",
-            "style": "background: none; max-height: 30px; min-height: 30px"
+            "url": "/tools/images/logo_en.svg",
+            "style": "background: none; max-width: 200px;"
           }
     }
 }

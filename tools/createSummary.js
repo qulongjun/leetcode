@@ -1,6 +1,5 @@
 var path = require("path");
 var fs = require("fs");
-var generatorContext = require('./createMarkdown');
 var writeFileToLine = require('./writeFileToLine');
 var readFileList = require('./readFilePath');
 var http = require("http");
@@ -40,8 +39,7 @@ fs.readdir(pathName, function (err, files) {
             times.push(file.split('】')[1])
         }
     }
-    // generatorItemList(generatorSummary(dirList));
-    generatorContext(dirList);
+    generatorItemList(generatorSummary(dirList));
 });
 
 const generatorSummary = function (dirList) {
@@ -73,7 +71,8 @@ const generatorSummary = function (dirList) {
 
 
 function generatorItemList(summaryMap) {
-    let summaryStr = '# Summary\n\n* [Introduction](README.md)\n';
+    console.log('正在构建目录');
+    let summaryStr = '# Summary\n\n* [Introduction](README.md)\n* [About](./tools/others/About.md)';
 
     for (let difficult in summaryMap) {
         summaryStr += generatorItem(DIFFICULT_MAP[difficult] || difficult, 0, './tools/markdowns/' + difficult + '.md');
@@ -126,6 +125,7 @@ function generatorItem(item, level, link) {
 }
 
 function writeToSummary(summary) {
+    console.log('正在生成 SUMMARY 文件');
     if(fs.existsSync('./SUMMARY.md')){
         fs.unlinkSync('./SUMMARY.md');
     }

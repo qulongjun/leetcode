@@ -7,7 +7,10 @@ var {
     getProblem
 } = require('./leetcodeAPI');
 var taskPool = require('./taskPool');
+
 var dirs = [];
+
+const times = [];
 
 var pathName = path.resolve('./');
 
@@ -104,4 +107,14 @@ function renderTemplate(renderList) {
     }
 }
 
-module.exports = generatorContext;
+fs.readdir(pathName, function (err, files) {
+    let dirList = [];
+    for (let i = 0; i < files.length; i++) {
+        let file = files[i];
+        if (file.startsWith('【')) {
+            dirList.push(file);
+            times.push(file.split('】')[1])
+        }
+    }
+    generatorContext(dirList);
+});

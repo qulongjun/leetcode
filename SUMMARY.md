@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [About](./tools/others/About.md)
 * [容易题](./tools/markdowns/easy.md)
   * [未分类](./tools/markdowns/easy_Unknown.md)
     * [【0412】fizz_buzz](./tools/tpl/【0412】fizz_buzz.md)
