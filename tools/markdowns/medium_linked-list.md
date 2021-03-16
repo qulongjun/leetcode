@@ -3,11 +3,11 @@
 
 当前分类下有如下内容：
 
-* [【0019】删除链表的倒数第n个节点](/tools/tpl/【0019】删除链表的倒数第n个节点.md)
-* [【0142】环形链表_ii](/tools/tpl/【0142】环形链表_ii.md)
-* [【0148】排序链表](/tools/tpl/【0148】排序链表.md)
-* [【0002】两数相加](/tools/tpl/【0002】两数相加.md)
-* [【0019】删除链表的倒数第_n_个结点](/tools/tpl/【0019】删除链表的倒数第_n_个结点.md)
-* [【0061】旋转链表](/tools/tpl/【0061】旋转链表.md)
-* [【0147】对链表进行插入排序](/tools/tpl/【0147】对链表进行插入排序.md)
-* [【0328】奇偶链表](/tools/tpl/【0328】奇偶链表.md)
+* [【0019】删除链表的倒数第n个节点](/tools/tpl/remove-nth-node-from-end-of-list.md)
+* [【0142】环形链表_ii](/tools/tpl/linked-list-cycle-ii.md)
+* [【0148】排序链表](/tools/tpl/sort-list.md)
+* [【0002】两数相加](/tools/tpl/add-two-numbers.md)
+* [【0019】删除链表的倒数第_n_个结点](/tools/tpl/remove-nth-node-from-end-of-list.md)
+* [【0061】旋转链表](/tools/tpl/rotate-list.md)
+* [【0147】对链表进行插入排序](/tools/tpl/insertion-sort-list.md)
+* [【0328】奇偶链表](/tools/tpl/odd-even-linked-list.md)

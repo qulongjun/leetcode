@@ -72,7 +72,8 @@ const generatorSummary = function (dirList) {
 
 function generatorItemList(summaryMap) {
     console.log('正在构建目录');
-    let summaryStr = '# Summary\n\n* [Introduction](README.md)\n* [About](./tools/others/About.md)';
+    generatorShedule();
+    let summaryStr = '# Summary\n\n* [介绍](README.md)\n* [刷题记录](./tools/markdowns/SCHEDULE.md)\n';
 
     for (let difficult in summaryMap) {
         summaryStr += generatorItem(DIFFICULT_MAP[difficult] || difficult, 0, './tools/markdowns/' + difficult + '.md');
@@ -81,11 +82,42 @@ function generatorItemList(summaryMap) {
             summaryStr += generatorItem((TAG_MAP[tag] || tag), 1, './tools/markdowns/' + difficult + '_' + tag + '.md');
             generatorMenu(difficult, tag, summaryMap[difficult][tag])
             for (let question in summaryMap[difficult][tag]) {
-                summaryStr += generatorItem(question, 2, './tools/tpl/' + question + '.md');
+                let questionBuf = fs.readFileSync(summaryMap[difficult][tag][question][0] + '/' + difficult + '/' + tag + '/' + question + '.js', 'utf8').split(/\r\n|\n|\r/gm);
+                let questionUrl = questionBuf.find(item => item.startsWith(' * https://leetcode-cn.com/problems/'));
+                const questionTitle = questionUrl.replace(' * https://leetcode-cn.com/problems/', '').replace('/description/', '');
+                summaryStr += generatorItem(question, 2, './tools/tpl/' + questionTitle + '.md');
             }
         }
     }
     writeToSummary(summaryStr)
+};
+
+function generatorShedule() {
+    let scheduleBuf = fs.readFileSync('SCHEDULE.md', 'utf8').split(/\r\n|\n|\r/gm);
+    for(let i = 0 ; i<scheduleBuf.length; i++){
+        const pathList = scheduleBuf[i].match(/\.\/((?!\.js).)+\.js/g);
+        const urlList = scheduleBuf[i].match(/(http[s]?:\/\/([\w-]+.)+([:\d+])?(\/[\w-\.\/\?%&=]*)?)/gi);
+        if(pathList !== null && urlList !== null) {
+            console.log(pathList, scheduleBuf[i].indexOf(pathList[0]));
+            const urls = urlList[0].split('/');
+            let url = '';
+            const cnName = pathList[0].split('/').pop();
+            while(url === '' && urls.length !== 0) {
+                url = urls.pop();
+            }
+
+            if(url !== ''){
+                for(let j = 0; j < pathList.length; j++){
+                    scheduleBuf[i] = scheduleBuf[i].replace(pathList[j], '/tools/tpl/' + url + '.md');
+                }
+            }
+        }
+    }
+    if(fs.existsSync('./tools/markdowns/SCHEDULE.md')){
+        fs.unlinkSync('./tools/markdowns/SCHEDULE.md');
+    }
+
+    writeFileToLine(scheduleBuf, '', path.resolve('./tools/markdowns/SCHEDULE.md'));
 };
 
 function generatorMenu(difficult, tag, dataSource) {
@@ -108,7 +140,10 @@ function generatorMenu(difficult, tag, dataSource) {
         writeFileToLine(results, '', path.resolve('./tools/markdowns/'+difficult+'.md'));
     } else {
         for(let question in dataSource) {
-            results.push('* ['+question+'](/tools/tpl/' + question + '.md)');
+            let questionBuf = fs.readFileSync(dataSource[question][0] + '/' + difficult + '/' + tag + '/' + question + '.js', 'utf8').split(/\r\n|\n|\r/gm);
+            let questionUrl = questionBuf.find(item => item.startsWith(' * https://leetcode-cn.com/problems/'));
+            const questionTitle = questionUrl.replace(' * https://leetcode-cn.com/problems/', '').replace('/description/', '');
+            results.push('* ['+question+'](/tools/tpl/' + questionTitle + '.md)');
         }
         writeFileToLine(results, '', path.resolve('./tools/markdowns/'+difficult+'_'+tag+'.md'));
     }

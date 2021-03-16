@@ -3,6 +3,6 @@
 
 当前分类下有如下内容：
 
-* [【0412】fizz_buzz](/tools/tpl/【0412】fizz_buzz.md)
-* [【1480】一维数组的动态和](/tools/tpl/【1480】一维数组的动态和.md)
-* [【1550】存在连续三个奇数的数组](/tools/tpl/【1550】存在连续三个奇数的数组.md)
+* [【0412】fizz_buzz](/tools/tpl/fizz-buzz.md)
+* [【1480】一维数组的动态和](/tools/tpl/running-sum-of-1d-array.md)
+* [【1550】存在连续三个奇数的数组](/tools/tpl/three-consecutive-odds.md)

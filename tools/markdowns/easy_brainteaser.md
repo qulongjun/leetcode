@@ -3,4 +3,4 @@
 
 当前分类下有如下内容：
 
-* [【0292】nim_游戏](/tools/tpl/【0292】nim_游戏.md)
+* [【0292】nim_游戏](/tools/tpl/nim-game.md)

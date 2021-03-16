@@ -3,4 +3,4 @@
 
 当前分类下有如下内容：
 
-* [【0701】二叉搜索树中的插入操作](/tools/tpl/【0701】二叉搜索树中的插入操作.md)
+* [【0701】二叉搜索树中的插入操作](/tools/tpl/insert-into-a-binary-search-tree.md)

@@ -19,7 +19,8 @@
         "pageview-count",
         "github",
         "insert-logo",
-        "copy-code-button"
+        "copy-code-button",
+        "-code"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {

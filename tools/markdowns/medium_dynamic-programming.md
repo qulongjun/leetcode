@@ -3,6 +3,6 @@
 
 当前分类下有如下内容：
 
-* [【0005】最长回文子串](/tools/tpl/【0005】最长回文子串.md)
-* [【0300】最长上升子序列](/tools/tpl/【0300】最长上升子序列.md)
-* [【0322】零钱兑换](/tools/tpl/【0322】零钱兑换.md)
+* [【0005】最长回文子串](/tools/tpl/longest-palindromic-substring.md)
+* [【0300】最长上升子序列](/tools/tpl/longest-increasing-subsequence.md)
+* [【0322】零钱兑换](/tools/tpl/coin-change.md)

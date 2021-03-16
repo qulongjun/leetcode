@@ -3,5 +3,5 @@
 
 当前分类下有如下内容：
 
-* [【0155】最小栈](/tools/tpl/【0155】最小栈.md)
-* [【0232】用栈实现队列](/tools/tpl/【0232】用栈实现队列.md)
+* [【0155】最小栈](/tools/tpl/min-stack.md)
+* [【0232】用栈实现队列](/tools/tpl/implement-queue-using-stacks.md)
