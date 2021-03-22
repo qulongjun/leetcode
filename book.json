@@ -1,0 +1,47 @@
+{
+    "title": "LeetCode",
+    "author": "瞿龙俊",
+    "description": "LeetCode solutions with JavaScript",
+    "language": "zh-hans",
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-pro",
+        "back-to-top-button",
+        "chapter-fold",
+        "expandable-chapters-small",
+        "tbfed-pagefooter",
+        "splitter",
+        "prism",
+        "prism-themes",
+        "-highlight",
+        "hide-element",
+        "pageview-count",
+        "github",
+        "insert-logo",
+        "copy-code-button",
+        "-code"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy 瞿龙俊 2020 - 2021",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "prism": {
+            "css": [
+                "prism-themes/themes/prism-material-light.css"
+            ]
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "github": {
+            "url": "https://github.com/qulongjun/leetcode"
+        },
+        "insert-logo": {
+            "url": "/tools/images/logo_en.svg",
+            "style": "background: none; max-width: 200px;"
+          }
+    }
+}
