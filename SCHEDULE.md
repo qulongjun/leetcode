@@ -42,6 +42,8 @@
 |0268|[丢失的数字](https://leetcode-cn.com/problems/missing-number/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0268】丢失的数字.js)|Easy| 2021.02.26 |
 |0283|[移动零](https://leetcode-cn.com/problems/move-zeroes/) | [【2020-秋季】](./【完结】2020-秋季/easy/array/【0283】移动零.js) [【2021-春季】](./【进行中】2021-春季/easy/array/【0283】移动零.js)|Easy| 2021.02.25 |
 |0448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0448】找到所有数组中消失的数字.js)|Easy| 2021.03.04 |
+|0867|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0867】转置矩阵.js)|Easy| 2021.03.23 |
+|0977|[有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [【2021-春季】](./【进行中】2021-春季/easy/array/【0977】有序数组的平方.js)|Easy| 2021.03.23 |
 
 #### 链表
 
@@ -103,7 +105,6 @@
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0053|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [【2020-秋季】](./【完结】2020-秋季/easy/dynamic-programming/【0053】最大子序和.js)|Easy| 2020.09.30 |
 |0070|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [【2020-秋季】](./【完结】2020-秋季/easy/dynamic-programming/【0070】爬楼梯.js)  [【2021-春季】](./【进行中】2021-春季/easy/dynamic-programming/【0070】爬楼梯.js)|Easy| 2020.09.30 |
-|0867|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | [【2021-春季】](./【进行中】2021-春季/easy/dynamic-programming/【0867】转置矩阵.js)|Easy| 2021.03.23 |
 
 #### 设计
 
