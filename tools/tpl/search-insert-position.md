@@ -30,6 +30,29 @@
 </pre>
 
 <hr style="height: 1px; margin: 1em 0px;" />
+<strong>第2次解答</strong>
+```javascript
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number}
+ */
+var searchInsert = function (nums, target) {
+  // 如果 nums 为空或者 nums 第一个元素就比 target 小，直接返回 0
+  if (nums.length === 0 || nums[0] > target) return 0;
+
+  // 遍历 nums， 找到 nums[i] === target 或者 > target 的索引
+  for (let i = 0; i < nums.length; i++) {
+    if (nums[i] >= target) return i;
+  }
+
+  // 如果 nums 最后一个元素都比 target 小，就是要插入到末尾的位置
+  if (nums[nums.length - 1] < target) {
+    return nums.length;
+  }
+};
+```
+<hr style="height: 1px; margin: 1em 0px;" />
 <strong>第1次解答</strong>
 ```javascript
 /**

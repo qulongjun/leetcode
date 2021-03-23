@@ -42,6 +42,8 @@
 |0268|[丢失的数字](https://leetcode-cn.com/problems/missing-number/) | [【2021-春季】](/tools/tpl/missing-number.md)|Easy| 2021.02.26 |
 |0283|[移动零](https://leetcode-cn.com/problems/move-zeroes/) | [【2020-秋季】](/tools/tpl/move-zeroes.md) [【2021-春季】](/tools/tpl/move-zeroes.md)|Easy| 2021.02.25 |
 |0448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [【2021-春季】](/tools/tpl/find-all-numbers-disappeared-in-an-array.md)|Easy| 2021.03.04 |
+|0867|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | [【2021-春季】](/tools/tpl/transpose-matrix.md)|Easy| 2021.03.23 |
+|0977|[有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [【2021-春季】](/tools/tpl/squares-of-a-sorted-array.md)|Easy| 2021.03.23 |
 
 #### 链表
 
@@ -208,7 +210,8 @@
 |0039|[组合总和](https://leetcode-cn.com/problems/combination-sum/) | [【2020-秋季】](/tools/tpl/combination-sum.md) [【2021-春季】](/tools/tpl/combination-sum.md)|Medium| 2021.03.04 |
 |0046|[全排列](https://leetcode-cn.com/problems/permutations/) | [【2020-秋季】](/tools/tpl/permutations.md) [【2021-春季】](/tools/tpl/permutations.md)|Medium| 2021.02.28 |
 |0078|[子集](https://leetcode-cn.com/problems/subsets/) | [【2020-秋季】](/tools/tpl/subsets.md) [【2021-春季】](/tools/tpl/subsets.md)|Medium| 2021.02.28 |
-|0077|[单词搜索](https://leetcode-cn.com/problems/word-search/) | [【2020-秋季】](/tools/tpl/word-search.md)|Medium| 2021.02.11 |
+|0077|[组合](https://leetcode-cn.com/problems/combinations/) | [【2021-春季】](/tools/tpl/combinations.md)|Medium| 2021.03.23 |
+|0079|[单词搜索](https://leetcode-cn.com/problems/word-search/) | [【2020-秋季】](/tools/tpl/word-search.md)|Medium| 2021.02.11 |
 |0131|[子集](https://leetcode-cn.com/problems/palindrome-partitioning/) | [【2020-秋季】](/tools/tpl/palindrome-partitioning.md) [【2021-春季】](/tools/tpl/palindrome-partitioning.md)|Medium| 2021.03.02 |
 
 #### 未知

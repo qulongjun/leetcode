@@ -55,6 +55,29 @@
 <p><strong>进阶：</strong>如果你已经实现复杂度为 <code>O(n)</code> 的解法，尝试使用更为精妙的 <strong>分治法</strong> 求解。</p>
 
 <hr style="height: 1px; margin: 1em 0px;" />
+<strong>第2次解答</strong>
+```javascript
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var maxSubArray = function (nums) {
+  // 用来存放 前 i-1 位索引的时候的最大值，第 i 位只需要比较 i-1 位的值和第 i 位的值即可
+  let maxCount = [nums[0]];
+  // 用来存放总的最大值
+  let maxValue = nums[0];
+
+  for (let i = 1; i < nums.length; i++) {
+    // 比较前 i-1 位的和+当前位 和 当前位 哪个值更大
+    maxCount[i] = Math.max(maxCount[i - 1] + nums[i], nums[i]);
+    // 获取最大值
+    maxValue = Math.max(maxValue, maxCount[i]);
+  }
+
+  return maxValue;
+};
+```
+<hr style="height: 1px; margin: 1em 0px;" />
 <strong>第1次解答</strong>
 ```javascript
 /**

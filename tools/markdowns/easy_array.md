@@ -16,3 +16,5 @@
 * [【0217】存在重复元素](/tools/tpl/contains-duplicate.md)
 * [【0268】丢失的数字](/tools/tpl/missing-number.md)
 * [【0448】找到所有数组中消失的数字](/tools/tpl/find-all-numbers-disappeared-in-an-array.md)
+* [【0867】转置矩阵](/tools/tpl/transpose-matrix.md)
+* [【0977】有序数组的平方](/tools/tpl/squares-of-a-sorted-array.md)

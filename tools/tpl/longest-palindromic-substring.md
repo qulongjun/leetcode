@@ -44,6 +44,53 @@
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />
+<strong>第2次解答</strong>
+```javascript
+/**
+ * @param {string} s
+ * @return {string}
+ */
+var longestPalindrome = function (s) {
+  /*
+        思路：
+        DP解法，如果一个子串是回文串，那么在这个子串两侧追加一个相同的字符之后，也会是回文串
+        定义： dp[i][j]： 表示 s 中从 i 到 j（包括 i 和 j）是否可以形成回文
+        状态转移方程：s[i] === s[j] && dp[i + 1][j - 1] => dp[i][j] = true
+        Base Case：如果只有一个字符，则为回文，如果有两个相同元素，则为回文，否则不是回文
+    */
+
+  // 这是一个边界条件
+  if (!s || s.length === 0) {
+    return "";
+  }
+
+  let result = s[0];
+
+  const dp = [];
+
+  // 为什么要从末尾开始，因为 dp[i][..]依赖于dp[i + 1][..]
+  for (let i = s.length - 1; i >= 0; i--) {
+    dp[i] = [];
+    for (let j = i; j < s.length; j++) {
+      // 第一种 Base Case：只有一个字符
+      if (j === i) dp[i][j] = true;
+      // 第二种 Base Case：只有两个字符，如果两个字符相同，则为回文，否则不是回文
+      else if (j === i + 1 && s[j] === s[i]) dp[i][j] = true;
+      // 通用情况：需要判断第 i 个字符和第 j 个字符是否一致 && 子串是否为回文
+      else if (s[j] === s[i] && dp[i + 1][j - 1]) dp[i][j] = true;
+
+      // 更新结果集，如果当前是最大回文子串，则将结果保存到 results 中
+      if (dp[i][j] && result.length < j - i + 1) {
+        // 分割字符串s为子串，保存到 result 里
+        result = s.slice(i, j + 1);
+      }
+    }
+  }
+
+  return result;
+};
+```
+<hr style="height: 1px; margin: 1em 0px;" />
 <strong>第1次解答</strong>
 ```javascript
 

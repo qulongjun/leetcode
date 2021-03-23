@@ -6,3 +6,4 @@
 * [【0005】最长回文子串](/tools/tpl/longest-palindromic-substring.md)
 * [【0300】最长上升子序列](/tools/tpl/longest-increasing-subsequence.md)
 * [【0322】零钱兑换](/tools/tpl/coin-change.md)
+* [【0062】不同路径](/tools/tpl/unique-paths.md)
