@@ -165,6 +165,7 @@
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0002|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/) |[【2021-春季】](/tools/tpl/add-two-numbers.md)|Medium| 2021.03.05 |
 |0019|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [【2020-秋季】](/tools/tpl/remove-nth-node-from-end-of-list.md) [【2021-春季】](/tools/tpl/remove-nth-node-from-end-of-list.md)|Medium| 2021.03.05 |
+|0024|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) |  [【2021-春季】](/tools/tpl/swap-nodes-in-pairs.md) |Medium| 2021.03.24 |
 |0061|[旋转链表](https://leetcode-cn.com/problems/rotate-list/) |  [【2021-春季】](/tools/tpl/rotate-list.md) |Medium| 2021.02.28 |
 |0142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [【2020-秋季】](/tools/tpl/linked-list-cycle-ii.md)  [【2021-春季】](/tools/tpl/linked-list-cycle-ii.md)|Medium| 2021.02.1 |
 |0147|[对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) |[【2021-春季】](/tools/tpl/insertion-sort-list.md)|Medium| 2021.02.28 |

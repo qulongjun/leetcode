@@ -25,8 +25,13 @@ _LOCAL_PATH=( $( __readINI tools/config.ini LOCAL path ) )
 # 进入本地项目文件夹
 cd ${_LOCAL_PATH}
 
-# 构建本地项目文件
-sh tools/build.sh true
+if [ $1 ]
+then
+    echo '开发者手动跳过 build 过程'
+else 
+    # 构建本地项目文件
+    sh tools/build.sh true
+fi
 
 # 访问线上服务并清空当前文件夹
 ssh ${_ROLE}@${_IP} "rm -rf ${_NGINX_BACKUP_PATH}/* ; cp -r ${_NGINX_PATH}/. ${_NGINX_BACKUP_PATH} ; cd ${_NGINX_PATH} ; rm -rf * ;"
