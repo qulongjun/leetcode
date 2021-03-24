@@ -21,5 +21,10 @@ cd . && gitbook install
 echo '输出文件'
 cd . && gitbook build
 
-echo '开始打包 gitbook'
-cd . && gitbook serve
+if [ $1 ]
+then
+    echo '服务器脚本不执行 gitbook server'
+else 
+    echo '开始打包 gitbook'
+    cd . && gitbook serve
+fi
