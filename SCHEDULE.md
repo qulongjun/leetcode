@@ -111,6 +111,7 @@
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0155|[最小栈](https://leetcode-cn.com/problems/min-stack/) | [【2021-春季】](./【进行中】2021-春季/easy/design/【0155】最小栈.js)|Easy| 2021.02.27 |
+|0225|[用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [【2021-春季】](./【进行中】2021-春季/easy/design/【0225】用队列实现栈.js)|Easy| 2021.03.26 |
 |0232|[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [【2021-春季】](./【进行中】2021-春季/easy/design/【0232】用栈实现队列.js)|Easy| 2021.03.05 |
 
 #### 脑筋急转弯

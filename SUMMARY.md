@@ -69,6 +69,7 @@
     * [【0292】nim_游戏](./tools/tpl/nim-game.md)
   * [设计类](./tools/markdowns/easy_design.md)
     * [【0155】最小栈](./tools/tpl/min-stack.md)
+    * [【0225】用队列实现栈](./tools/tpl/implement-stack-using-queues.md)
     * [【0232】用栈实现队列](./tools/tpl/implement-queue-using-stacks.md)
   * [哈希表类型](./tools/markdowns/easy_hash-table.md)
     * [【0136】只出现一次的数字](./tools/tpl/single-number.md)
