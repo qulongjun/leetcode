@@ -50,7 +50,7 @@
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0021|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [【2020-秋季】](/tools/tpl/merge-two-sorted-lists.md) [【2021-春季】](/tools/tpl/merge-two-sorted-lists.md)|Easy| 2021.02.25 |
-|0083|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [【2020-秋季】](/tools/tpl/remove-duplicates-from-sorted-list.md)|Easy| 2020.09.25 |
+|0083|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [【2020-秋季】](/tools/tpl/remove-duplicates-from-sorted-list.md) [【2021-春季】](/tools/tpl/remove-duplicates-from-sorted-list.md)|Easy| 2021.03.26 |
 |0141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [【2020-秋季】](/tools/tpl/linked-list-cycle.md)  [【2021-春季】](/tools/tpl/linked-list-cycle.md)|Easy| 2021.02.27 |
 |0160|[相交链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [【2021-春季】](/tools/tpl/reverse-linked-list.md)|Easy| 2021.02.26 |
 |0206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [【2020-秋季】](/tools/tpl/reverse-linked-list.md) [【2021-春季】](/tools/tpl/reverse-linked-list.md)|Easy| 2021.02.25 |
