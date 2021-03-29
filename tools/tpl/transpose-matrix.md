@@ -30,9 +30,9 @@
 <ul>
 	<li><code>m == matrix.length</code></li>
 	<li><code>n == matrix[i].length</code></li>
-	<li><code>1 <= m, n <= 1000</code></li>
-	<li><code>1 <= m * n <= 10<sup>5</sup></code></li>
-	<li><code>-10<sup>9</sup> <= matrix[i][j] <= 10<sup>9</sup></code></li>
+	<li><code>1 &lt;= m, n &lt;= 1000</code></li>
+	<li><code>1 &lt;= m * n &lt;= 10<sup>5</sup></code></li>
+	<li><code>-10<sup>9</sup> &lt;= matrix[i][j] &lt;= 10<sup>9</sup></code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

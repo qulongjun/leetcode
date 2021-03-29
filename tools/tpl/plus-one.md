@@ -37,8 +37,8 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= digits.length <= 100</code></li>
-	<li><code>0 <= digits[i] <= 9</code></li>
+	<li><code>1 &lt;= digits.length &lt;= 100</code></li>
+	<li><code>0 &lt;= digits[i] &lt;= 9</code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

@@ -34,9 +34,9 @@
 
 <ul>
 	<li>链表中结点的数目为 <code>sz</code></li>
-	<li><code>1 <= sz <= 30</code></li>
-	<li><code>0 <= Node.val <= 100</code></li>
-	<li><code>1 <= n <= sz</code></li>
+	<li><code>1 &lt;= sz &lt;= 30</code></li>
+	<li><code>0 &lt;= Node.val &lt;= 100</code></li>
+	<li><code>1 &lt;= n &lt;= sz</code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

@@ -27,7 +27,7 @@
 
 <ul>
 	<li>链表中节点数目在范围 <code>[0, 300]</code> 内</li>
-	<li><code>-100 <= Node.val <= 100</code></li>
+	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
 	<li>题目数据保证链表已经按升序排列</li>
 </ul>
 

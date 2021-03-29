@@ -46,7 +46,7 @@
 
 <ul>
 	<li>树中节点数目在范围 <code>[0, 100]</code> 内</li>
-	<li><code>-100 <= Node.val <= 100</code></li>
+	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
 </ul>
 
 <p> </p>

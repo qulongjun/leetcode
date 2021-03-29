@@ -47,8 +47,8 @@
 
 <ul>
 	<li><code>n == nums.length</code></li>
-	<li><code>1 <= n <= 10<sup>4</sup></code></li>
-	<li><code>0 <= nums[i] <= n</code></li>
+	<li><code>1 &lt;= n &lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= nums[i] &lt;= n</code></li>
 	<li><code>nums</code> 中的所有数字都 <strong>独一无二</strong></li>
 </ul>
 

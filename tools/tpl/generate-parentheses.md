@@ -24,7 +24,7 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= n <= 8</code></li>
+	<li><code>1 &lt;= n &lt;= 8</code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

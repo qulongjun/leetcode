@@ -37,7 +37,7 @@
 
 <ul>
 	<li>每个链表中的节点数在范围 <code>[1, 100]</code> 内</li>
-	<li><code>0 <= Node.val <= 9</code></li>
+	<li><code>0 &lt;= Node.val &lt;= 9</code></li>
 	<li>题目数据保证列表表示的数字不含前导零</li>
 </ul>
 

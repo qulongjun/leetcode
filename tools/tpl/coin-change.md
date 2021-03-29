@@ -46,9 +46,9 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= coins.length <= 12</code></li>
-	<li><code>1 <= coins[i] <= 2<sup>31</sup> - 1</code></li>
-	<li><code>0 <= amount <= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= coins.length &lt;= 12</code></li>
+	<li><code>1 &lt;= coins[i] &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>0 &lt;= amount &lt;= 10<sup>4</sup></code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

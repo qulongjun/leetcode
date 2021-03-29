@@ -51,7 +51,7 @@
 
 <ul>
 	<li>链表中节点的数目范围在范围 <code>[0, 10<sup>4</sup>]</code> 内</li>
-	<li><code>-10<sup>5</sup> <= Node.val <= 10<sup>5</sup></code></li>
+	<li><code>-10<sup>5</sup> &lt;= Node.val &lt;= 10<sup>5</sup></code></li>
 	<li><code>pos</code> 的值为 <code>-1</code> 或者链表中的一个有效索引</li>
 </ul>
 

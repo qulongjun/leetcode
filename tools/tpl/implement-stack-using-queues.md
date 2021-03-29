@@ -46,7 +46,7 @@ myStack.empty(); // 返回 False
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= x <= 9</code></li>
+	<li><code>1 &lt;= x &lt;= 9</code></li>
 	<li>最多调用<code>100</code> 次 <code>push</code>、<code>pop</code>、<code>top</code> 和 <code>empty</code></li>
 	<li>每次调用 <code>pop</code> 和 <code>top</code> 都保证栈不为空</li>
 </ul>

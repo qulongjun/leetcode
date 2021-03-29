@@ -39,7 +39,7 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= s.length <= 1000</code></li>
+	<li><code>1 &lt;= s.length &lt;= 1000</code></li>
 	<li><code>s</code> 仅由数字和英文字母（大写和/或小写）组成</li>
 </ul>
 

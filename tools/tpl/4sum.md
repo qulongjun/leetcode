@@ -26,9 +26,9 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>0 <= nums.length <= 200</code></li>
-	<li><code>-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup></code></li>
-	<li><code>-10<sup>9</sup> <= target <= 10<sup>9</sup></code></li>
+	<li><code>0 &lt;= nums.length &lt;= 200</code></li>
+	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
+	<li><code>-10<sup>9</sup> &lt;= target &lt;= 10<sup>9</sup></code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

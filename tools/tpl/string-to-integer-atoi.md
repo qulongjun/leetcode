@@ -105,7 +105,7 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>0 <= s.length <= 200</code></li>
+	<li><code>0 &lt;= s.length &lt;= 200</code></li>
 	<li><code>s</code> 由英文字母（大写和小写）、数字（<code>0-9</code>）、<code>' '</code>、<code>'+'</code>、<code>'-'</code> 和 <code>'.'</code> 组成</li>
 </ul>
 

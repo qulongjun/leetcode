@@ -26,8 +26,8 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>0 <= strs.length <= 200</code></li>
-	<li><code>0 <= strs[i].length <= 200</code></li>
+	<li><code>0 &lt;= strs.length &lt;= 200</code></li>
+	<li><code>0 &lt;= strs[i].length &lt;= 200</code></li>
 	<li><code>strs[i]</code> 仅由小写英文字母组成</li>
 </ul>
 

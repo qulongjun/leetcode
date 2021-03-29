@@ -31,8 +31,8 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= prices.length <= 10<sup>5</sup></code></li>
-	<li><code>0 <= prices[i] <= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= prices.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= prices[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

@@ -45,7 +45,7 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= m, n <= 100</code></li>
+	<li><code>1 &lt;= m, n &lt;= 100</code></li>
 	<li>题目数据保证答案小于等于 <code>2 * 10<sup>9</sup></code></li>
 </ul>
 

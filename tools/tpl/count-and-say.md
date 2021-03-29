@@ -61,7 +61,7 @@ countAndSay(4) = 读 "21" = 一 个 2 + 一 个 1 = "12" + "11" = "1211"
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= n <= 30</code></li>
+	<li><code>1 &lt;= n &lt;= 30</code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

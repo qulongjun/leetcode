@@ -42,8 +42,8 @@
 <ul>
 	<li><code>matrix.length == n</code></li>
 	<li><code>matrix[i].length == n</code></li>
-	<li><code>1 <= n <= 20</code></li>
-	<li><code>-1000 <= matrix[i][j] <= 1000</code></li>
+	<li><code>1 &lt;= n &lt;= 20</code></li>
+	<li><code>-1000 &lt;= matrix[i][j] &lt;= 1000</code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

@@ -57,7 +57,7 @@ myQueue.empty(); // return false
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= x <= 9</code></li>
+	<li><code>1 &lt;= x &lt;= 9</code></li>
 	<li>最多调用 <code>100</code> 次 <code>push</code>、<code>pop</code>、<code>peek</code> 和 <code>empty</code></li>
 	<li>假设所有操作都是有效的 （例如，一个空的队列不会调用 <code>pop</code> 或者 <code>peek</code> 操作）</li>
 </ul>

@@ -39,7 +39,7 @@
 <ul>
 	<li>给定的树上的节点数介于 <code>0</code> 和 <code>10^4</code> 之间</li>
 	<li>每个节点都有一个唯一整数值，取值范围从 <code>0</code> 到 <code>10^8</code></li>
-	<li><code>-10^8 <= val <= 10^8</code></li>
+	<li><code>-10^8 &lt;= val &lt;= 10^8</code></li>
 	<li>新值和原始二叉搜索树中的任意节点值都不同</li>
 </ul>
 

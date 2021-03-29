@@ -26,8 +26,8 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= nums.length <= 10</code></li>
-	<li><code>-10 <= nums[i] <= 10</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 10</code></li>
+	<li><code>-10 &lt;= nums[i] &lt;= 10</code></li>
 	<li><code>nums</code> 中的所有元素 <strong>互不相同</strong></li>
 </ul>
 

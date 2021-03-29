@@ -17,6 +17,10 @@ var pathName = path.resolve('./');
 const ProblemDifficulty = ['简单', '中等', '困难'];
 const ProblemDifficultyColor = ['rgb(90, 183, 38)', 'rgb(255, 161, 25)', 'rgb(236, 76, 71)']
 
+String.prototype.replaceAll = function(s1, s2) {
+    return this.replace(new RegExp(s1, "gm"), s2);
+}
+
 function generatorContext(dirList) {
     let fileMapWithTimes = {};
     login();
@@ -75,7 +79,7 @@ function renderTemplate(renderList) {
 
                 header.push('<hr style="height: 1px; margin: 1em 0px;" />');
 
-                questionData.push(res.translatedContent);
+                questionData.push(res.translatedContent.replaceAll('<=', '&lt;=').replaceAll('>=', '&gt;='));
 
                 for (let i = renderList.length - 1; i >= 0; i--) {
                     let data = fs.readFileSync(renderList[i], 'utf8').split(/\r\n|\n|\r/gm);

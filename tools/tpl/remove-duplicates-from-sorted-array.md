@@ -48,8 +48,8 @@ for (int i = 0; i < len; i++) {
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>0 <= nums.length <= 3 * 10<sup>4</sup></code></li>
-	<li><code>-10<sup>4</sup> <= nums[i] <= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 	<li><code>nums</code> 已按升序排列</li>
 </ul>
 

@@ -41,7 +41,7 @@ struct Node {
 
 <ul>
 	<li>树中的节点数小于 <code>6000</code></li>
-	<li><code>-100 <= node.val <= 100</code></li>
+	<li><code>-100 &lt;= node.val &lt;= 100</code></li>
 </ul>
 
 <p> </p>

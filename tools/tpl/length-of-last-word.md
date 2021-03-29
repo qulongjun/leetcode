@@ -26,7 +26,7 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= s.length <= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>s</code> 仅有英文字母和空格 <code>' '</code> 组成</li>
 </ul>
 

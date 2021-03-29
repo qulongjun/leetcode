@@ -27,8 +27,8 @@
 
 <ul>
 	<li>树中的节点数为 <code>n</code> 。</li>
-	<li><code>1 <= k <= n <= 10<sup>4</sup></code></li>
-	<li><code>0 <= Node.val <= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= k &lt;= n &lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= Node.val &lt;= 10<sup>4</sup></code></li>
 </ul>
 
 <p> </p>

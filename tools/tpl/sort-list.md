@@ -38,7 +38,7 @@
 
 <ul>
 	<li>链表中节点的数目在范围 <code>[0, 5 * 10<sup>4</sup>]</code> 内</li>
-	<li><code>-10<sup>5</sup> <= Node.val <= 10<sup>5</sup></code></li>
+	<li><code>-10<sup>5</sup> &lt;= Node.val &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

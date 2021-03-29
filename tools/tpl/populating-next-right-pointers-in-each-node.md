@@ -42,7 +42,7 @@ struct Node {
 
 <ul>
 	<li>树中节点的数量少于 <code>4096</code></li>
-	<li><code>-1000 <= node.val <= 1000</code></li>
+	<li><code>-1000 &lt;= node.val &lt;= 1000</code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

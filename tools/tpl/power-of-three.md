@@ -40,7 +40,7 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>-2<sup>31</sup> <= n <= 2<sup>31</sup> - 1</code></li>
+	<li><code>-2<sup>31</sup> &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
 
 <p> </p>

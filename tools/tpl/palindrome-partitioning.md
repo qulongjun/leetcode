@@ -26,7 +26,7 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>1 <= s.length <= 16</code></li>
+	<li><code>1 &lt;= s.length &lt;= 16</code></li>
 	<li><code>s</code> 仅由小写英文字母组成</li>
 </ul>
 

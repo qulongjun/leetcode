@@ -35,7 +35,7 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>0 <= digits.length <= 4</code></li>
+	<li><code>0 &lt;= digits.length &lt;= 4</code></li>
 	<li><code>digits[i]</code> 是范围 <code>['2', '9']</code> 的一个数字。</li>
 </ul>
 

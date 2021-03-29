@@ -34,7 +34,7 @@
 
 <ul>
 	<li>链表中节点的数目在范围 <code>[0, 100]</code> 内</li>
-	<li><code>0 <= Node.val <= 100</code></li>
+	<li><code>0 &lt;= Node.val &lt;= 100</code></li>
 </ul>
 
 <p> </p>

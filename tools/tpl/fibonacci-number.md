@@ -41,7 +41,7 @@ F(n) = F(n - 1) + F(n - 2)，其中 n > 1
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>0 <= n <= 30</code></li>
+	<li><code>0 &lt;= n &lt;= 30</code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

@@ -36,9 +36,9 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>2 <= nums.length <= 10<sup>3</sup></code></li>
-	<li><code>-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup></code></li>
-	<li><code>-10<sup>9</sup> <= target <= 10<sup>9</sup></code></li>
+	<li><code>2 &lt;= nums.length &lt;= 10<sup>3</sup></code></li>
+	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
+	<li><code>-10<sup>9</sup> &lt;= target &lt;= 10<sup>9</sup></code></li>
 	<li><strong>只会存在一个有效答案</strong></li>
 </ul>
 
@@ -90,60 +90,6 @@ var twoSum = function (nums, target) {
 <hr style="height: 1px; margin: 1em 0px;" />
 <strong>第1次解答</strong>
 ```javascript
-/**
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
- * @description 使用两个 for 循环，实现不重复计算数组中两个元素之和。
- */
-// var twoSum = function (nums, target) {
-//   for (let i = 0; i < nums.length - 1; i++) {
-//     for (let j = i + 1; j < nums.length; j++) {
-//       if (nums[i] + nums[j] === target) {
-//         return [i, j];
-//       }
-//     }
-//   }
-// };
-
-/**
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
- * @description 使用一个 for 循环，然后直接去数组中找剩下的数是否存在。
- */
-// var twoSum = function (nums, target) {
-//   for (let i = 0; i < nums.length - 1; i++) {
-//     const anotherIndex = nums.lastIndexOf(target - nums[i]);
-//     // anotherIndex === -1 表示未找到，anotherIndex === 1 表示重复元素使用
-//     if (anotherIndex !== -1 && anotherIndex !== i) {
-//       return [i, anotherIndex];
-//     }
-//     continue;
-//   }
-// };
-
-/**
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
- * @description 使用一个数组存储补 diff 值，减少一次遍历。
- */
-// var twoSum = function (nums, target) {
-//   // 使用 tempArr[diff] 来判断当前 nums 数组是否存在这个元素。
-//   const tempArr = [];
-
-//   for (let i = 0; i < nums.length; i++) {
-//     const diff = target - nums[i];
-//     // 如果此时 tempArr[diff] 存在，则证明之前的 `i` 的值为 diff。
-//     if (tempArr[diff] !== undefined) {
-//       return [tempArr[diff], i];
-//     }
-//     // 第 i 个元素即为 diff 值
-//     tempArr[nums[i]] = i;
-//   }
-// };
-
 /**
  * @param {number[]} nums
  * @param {number} target

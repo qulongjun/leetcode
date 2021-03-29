@@ -38,7 +38,7 @@
 
 <ul>
 	<li>树中的节点数在范围 <code>[0, 5000]</code> 内</li>
-	<li><code>-10<sup>4</sup> <= Node.val <= 10<sup>4</sup></code></li>
+	<li><code>-10<sup>4</sup> &lt;= Node.val &lt;= 10<sup>4</sup></code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

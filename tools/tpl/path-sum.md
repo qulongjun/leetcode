@@ -34,8 +34,8 @@
 
 <ul>
 	<li>树中节点的数目在范围 <code>[0, 5000]</code> 内</li>
-	<li><code>-1000 <= Node.val <= 1000</code></li>
-	<li><code>-1000 <= targetSum <= 1000</code></li>
+	<li><code>-1000 &lt;= Node.val &lt;= 1000</code></li>
+	<li><code>-1000 &lt;= targetSum &lt;= 1000</code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

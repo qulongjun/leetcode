@@ -51,9 +51,9 @@ for (int i = 0; i < len; i++) {
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code>0 <= nums.length <= 100</code></li>
-	<li><code>0 <= nums[i] <= 50</code></li>
-	<li><code>0 <= val <= 100</code></li>
+	<li><code>0 &lt;= nums.length &lt;= 100</code></li>
+	<li><code>0 &lt;= nums[i] &lt;= 50</code></li>
+	<li><code>0 &lt;= val &lt;= 100</code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

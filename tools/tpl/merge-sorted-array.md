@@ -28,9 +28,9 @@
 <ul>
 	<li><code>nums1.length == m + n</code></li>
 	<li><code>nums2.length == n</code></li>
-	<li><code>0 <= m, n <= 200</code></li>
-	<li><code>1 <= m + n <= 200</code></li>
-	<li><code>-10<sup>9</sup> <= nums1[i], nums2[i] <= 10<sup>9</sup></code></li>
+	<li><code>0 &lt;= m, n &lt;= 200</code></li>
+	<li><code>1 &lt;= m + n &lt;= 200</code></li>
+	<li><code>-10<sup>9</sup> &lt;= nums1[i], nums2[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />

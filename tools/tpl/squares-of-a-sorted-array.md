@@ -28,8 +28,8 @@
 <p><strong>提示：</strong></p>
 
 <ul>
-	<li><code><span>1 <= nums.length <= </span>10<sup>4</sup></code></li>
-	<li><code>-10<sup>4</sup> <= nums[i] <= 10<sup>4</sup></code></li>
+	<li><code><span>1 &lt;= nums.length &lt;= </span>10<sup>4</sup></code></li>
+	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 	<li><code>nums</code> 已按 <strong>非递减顺序</strong> 排序</li>
 </ul>
 
