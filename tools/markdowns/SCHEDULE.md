@@ -203,6 +203,8 @@
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0005|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [【2020-秋季】](/tools/tpl/longest-palindromic-substring.md)|Medium| 2020.10.10 |
+|0062|[不同路径](https://leetcode-cn.com/problems/unique-paths/) | [【2021-春季】](/tools/tpl/unique-paths.md)|Medium| 2021.03.29 |
+|0198|[打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [【2021-春季】](/tools/tpl/house-robber.md)|Medium| 2021.03.29 |
 |0300|[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [【2020-秋季】](/tools/tpl/longest-increasing-subsequence.md)|Medium| 2020.09.30 |
 |0322|[零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [【2020-秋季】](/tools/tpl/coin-change.md)|Medium| 2020.09.30 |
 

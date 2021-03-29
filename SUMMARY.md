@@ -104,6 +104,7 @@
     * [【0300】最长上升子序列](./tools/tpl/longest-increasing-subsequence.md)
     * [【0322】零钱兑换](./tools/tpl/coin-change.md)
     * [【0062】不同路径](./tools/tpl/unique-paths.md)
+    * [【0198】打家劫舍](./tools/tpl/house-robber.md)
   * [链表类型](./tools/markdowns/medium_linked-list.md)
     * [【0019】删除链表的倒数第n个节点](./tools/tpl/remove-nth-node-from-end-of-list.md)
     * [【0142】环形链表_ii](./tools/tpl/linked-list-cycle-ii.md)
