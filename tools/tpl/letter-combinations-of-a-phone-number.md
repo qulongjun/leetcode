@@ -40,6 +40,60 @@
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />
+<strong>第2次解答</strong>
+```javascript
+
+const backTracking = function (sourceMap, keys, results, tracks, index) {
+  // 回溯算法的结束条件，当 tracks 收集到足够多的元素后
+  if (tracks.length === keys.length) {
+    // 输出字符串
+    results.push(tracks.join(""));
+    return;
+  }
+
+  // 定义需要遍历的集合，keys[index] => 当前遍历到的第几个位置
+  const dataSource = sourceMap[keys[index]];
+
+  // 回溯的遍历操作
+  for (let i = 0; i < dataSource.length; i++) {
+    tracks.push(dataSource[i]);
+    backTracking(sourceMap, keys, results, tracks, index + 1);
+    tracks.pop();
+  }
+};
+
+/**
+ * @param {string} digits
+ * @return {string[]}
+ */
+var letterCombinations = function (digits) {
+  // 边界条件，防止出现 ['']的情况
+  if (digits === "") return [];
+
+  // 定义一个数据源
+  const sourceMap = {
+    2: ["a", "b", "c"],
+    3: ["d", "e", "f"],
+    4: ["g", "h", "i"],
+    5: ["j", "k", "l"],
+    6: ["m", "n", "o"],
+    7: ["p", "q", "r", "s"],
+    8: ["t", "u", "v"],
+    9: ["w", "x", "y", "z"],
+  };
+
+  // "23" => ["2", "3"]
+  const keys = digits.split("");
+
+  // 定义结果集
+  const results = [];
+  // 回溯
+  backTracking(sourceMap, keys, results, [], 0);
+  // 返回结果集
+  return results;
+};
+```
+<hr style="height: 1px; margin: 1em 0px;" />
 <strong>第1次解答</strong>
 ```javascript
 /**

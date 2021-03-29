@@ -210,7 +210,7 @@
 
 | # | 问题 | 解答 | 难度 | 最后刷题日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
-|0017|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [【2020-秋季】](/tools/tpl/letter-combinations-of-a-phone-number.md)|Medium| 2021.02.11 |
+|0017|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [【2020-秋季】](/tools/tpl/letter-combinations-of-a-phone-number.md) [【2021-春季】](/tools/tpl/letter-combinations-of-a-phone-number.md)|Medium| 2021.03.29 |
 |0022|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [【2020-秋季】](/tools/tpl/generate-parentheses.md) [【2021-春季】](/tools/tpl/generate-parentheses.md)|Medium| 2021.03.02 |
 |0039|[组合总和](https://leetcode-cn.com/problems/combination-sum/) | [【2020-秋季】](/tools/tpl/combination-sum.md) [【2021-春季】](/tools/tpl/combination-sum.md)|Medium| 2021.03.04 |
 |0046|[全排列](https://leetcode-cn.com/problems/permutations/) | [【2020-秋季】](/tools/tpl/permutations.md) [【2021-春季】](/tools/tpl/permutations.md)|Medium| 2021.02.28 |

@@ -84,20 +84,24 @@ function renderTemplate(renderList) {
                 for (let i = renderList.length - 1; i >= 0; i--) {
                     let data = fs.readFileSync(renderList[i], 'utf8').split(/\r\n|\n|\r/gm);
                     let isEnter = false;
+                    if(data.length) {
+                        answerData.push('<hr style="height: 1px; margin: 1em 0px;" />');
+                        answerData.push('<strong>第' + (i + 1) + '次解答</strong>');
+                        answerData.push('```javascript')
+                    }
                     for (let j = 0; j < data.length; j++) {
-                        if (data[j].indexOf('@lc code=start') !== -1) {
-                            isEnter = true;
-                            answerData.push('<hr style="height: 1px; margin: 1em 0px;" />');
-                            answerData.push('<strong>第' + (i + 1) + '次解答</strong>');
-                            answerData.push('```javascript')
-                            continue;
-                        }
-                        if (isEnter && data[j].indexOf('@lc code=end') !== -1) {
-                            isEnter = false;
-                            answerData.push('```')
-                            break;
-                        }
-                        if (isEnter) answerData.push(data[j]);
+                      if (data[j].indexOf("@lc code=start") !== -1) {
+                        isEnter = true;
+                        continue;
+                      }
+                      if (isEnter && data[j].indexOf("@lc code=end") !== -1) {
+                        isEnter = false;
+                        break;
+                      }
+                      if (isEnter) answerData.push(data[j]);
+                    }
+                    if(data.length) {
+                        answerData.push('```')
                     }
                     const filePath = path.resolve('./tools/tpl/' + questionTitle + '.md');
                     
