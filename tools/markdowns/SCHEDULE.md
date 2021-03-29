@@ -180,6 +180,7 @@
 |:---:| :-----: | :--------: | :----------: | :--------: |
 |0015|[三数之和](https://leetcode-cn.com/problems/3sum/) | [【2020-秋季】](/tools/tpl/3sum.md)|Medium| 2020.09.28 |
 |0018|[四数之和](https://leetcode-cn.com/problems/4sum/) | [【2020-秋季】](/tools/tpl/4sum.md)|Medium| 2020.09.28 |
+|0034|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [【2021-春季】](/tools/tpl/find-first-and-last-position-of-element-in-sorted-array.md)|Medium| 2021.03.29 |
 |0048|[旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [【2021-春季】](/tools/tpl/rotate-image.md)|Medium| 2021.03.02 |
 |0238|[寻找重复数](https://leetcode-cn.com/problems/product-of-array-except-self/) | [【2020-秋季】](/tools/tpl/product-of-array-except-self.md) [【2021-春季】](/tools/tpl/product-of-array-except-self.md)|Medium| 2021.03.02 |
 |0287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [【2020-秋季】](/tools/tpl/find-the-duplicate-number.md)|Medium| 2021.02.11 |

@@ -7,4 +7,5 @@
 * [【0018】四数之和](/tools/tpl/4sum.md)
 * [【0238】除自身以外数组的乘积](/tools/tpl/product-of-array-except-self.md)
 * [【0287】寻找重复数](/tools/tpl/find-the-duplicate-number.md)
+* [【0034】在排序数组中查找元素的第一个和最后一个位置](/tools/tpl/find-first-and-last-position-of-element-in-sorted-array.md)
 * [【0048】旋转图像](/tools/tpl/rotate-image.md)
