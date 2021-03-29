@@ -105,7 +105,7 @@ function renderTemplate(renderList) {
                         fs.unlinkSync(filePath);
                     }
 
-                    writeFileToLine([...header, ...questionData, ...answerData], '${data}', filePath);
+                    writeFileToLine([].concat(header).concat(questionData).concat(answerData), '${data}', filePath);
                 }
             });
             break;
