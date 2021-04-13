@@ -10,3 +10,4 @@
 * [【0011】盛最多水的容器](/tools/tpl/container-with-most-water.md)
 * [【0034】在排序数组中查找元素的第一个和最后一个位置](/tools/tpl/find-first-and-last-position-of-element-in-sorted-array.md)
 * [【0048】旋转图像](/tools/tpl/rotate-image.md)
+* [【0055】跳跃游戏](/tools/tpl/jump-game.md)
