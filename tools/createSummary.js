@@ -98,7 +98,6 @@ function generatorShedule() {
         const pathList = scheduleBuf[i].match(/\.\/((?!\.js).)+\.js/g);
         const urlList = scheduleBuf[i].match(/(http[s]?:\/\/([\w-]+.)+([:\d+])?(\/[\w-\.\/\?%&=]*)?)/gi);
         if(pathList !== null && urlList !== null) {
-            console.log(pathList, scheduleBuf[i].indexOf(pathList[0]));
             const urls = urlList[0].split('/');
             let url = '';
             const cnName = pathList[0].split('/').pop();
