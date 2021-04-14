@@ -56,6 +56,7 @@
 |0206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [【2020-秋季】](/tools/tpl/reverse-linked-list.md) [【2021-春季】](/tools/tpl/reverse-linked-list.md)|Easy| 2021.02.25 |
 |0234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [【2021-春季】](/tools/tpl/palindrome-linked-list.md)|Easy|2021.03.01 |
 |0237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [【2021-春季】](/tools/tpl/delete-node-in-a-linked-list.md)|Easy|2021.02.24 |
+|0876|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [【2021-春季】](/tools/tpl/middle-of-the-linked-list.md)|Easy|2021.04.14 |
 
 #### 哈希表
 

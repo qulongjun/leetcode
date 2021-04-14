@@ -35,6 +35,7 @@
     * [【0160】相交链表](./tools/tpl/intersection-of-two-linked-lists.md)
     * [【0234】回文链表](./tools/tpl/palindrome-linked-list.md)
     * [【0237】删除链表中的节点](./tools/tpl/delete-node-in-a-linked-list.md)
+    * [【0876】链表的中间结点](./tools/tpl/middle-of-the-linked-list.md)
   * [数学类型](./tools/markdowns/easy_math.md)
     * [【0007】整数反转](./tools/tpl/reverse-integer.md)
     * [【0009】回文数](./tools/tpl/palindrome-number.md)
