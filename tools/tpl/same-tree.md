@@ -38,6 +38,35 @@
 </ul>
 
 <hr style="height: 1px; margin: 1em 0px;" />
+<strong>第2次解答</strong>
+```javascript
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+/**
+ * @param {TreeNode} p
+ * @param {TreeNode} q
+ * @return {boolean}
+ */
+var isSameTree = function (p, q) {
+  // 处理边界问题： p 和 q 都是 null，则为 true
+  if (p === null && q === null) return true;
+  // 处理边界问题： p 和 q 只有一个为 null，则为 false
+  if ((p === null && q !== null) || (p !== null && q === null)) return false;
+  // 递归比较当前节点值和该节点的左右子树的节点值是否一样
+  return (
+    p.val === q.val &&
+    isSameTree(p.left, q.left) &&
+    isSameTree(p.right, q.right)
+  );
+};
+```
+<hr style="height: 1px; margin: 1em 0px;" />
 <strong>第1次解答</strong>
 ```javascript
 /**
