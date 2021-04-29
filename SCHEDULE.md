@@ -208,7 +208,7 @@
 |0062|[不同路径](https://leetcode-cn.com/problems/unique-paths/) | [【2021-春季】](./【进行中】2021-春季/medium/dynamic-programming/【0062】不同路径.js)|Medium| 2021.03.29 |
 |0198|[打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [【2021-春季】](./【进行中】2021-春季/medium/dynamic-programming/【0198】打家劫舍.js)|Medium| 2021.03.29 |
 |0300|[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [【2020-秋季】](./【完结】2020-秋季/medium/dynamic-programming/【0300】最长上升子序列.js)|Medium| 2020.09.30 |
-|0322|[零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [【2020-秋季】](./【完结】2020-秋季/medium/dynamic-programming/【0322】零钱兑换.js)|Medium| 2020.09.30 |
+|0322|[零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [【2020-秋季】](./【完结】2020-秋季/medium/dynamic-programming/【0322】零钱兑换.js)  [【2021-春季】](./【进行中】2021-春季/medium/dynamic-programming/【0322】零钱兑换.js)|Medium| 2021.04.26 |
 
 #### 回溯算法
 
