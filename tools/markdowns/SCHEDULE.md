@@ -92,7 +92,7 @@
 |0107|[二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [【2020-秋季】](/tools/tpl/binary-tree-level-order-traversal-ii.md)|Easy| 2020.09.25 |
 |0108|[将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [【2020-秋季】](/tools/tpl/convert-sorted-array-to-binary-search-tree.md) [【2021-春季】](/tools/tpl/convert-sorted-array-to-binary-search-tree.md)|Easy| 2021.02.25 |
 |0110|[平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [【2020-秋季】](/tools/tpl/balanced-binary-tree.md) [【2021-春季】](/tools/tpl/balanced-binary-tree.md)|Easy| 2021.03.04 |
-|0111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [【2020-秋季】](/tools/tpl/minimum-depth-of-binary-tree.md)|Easy| 2020.09.25 |
+|0111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [【2020-秋季】](/tools/tpl/minimum-depth-of-binary-tree.md) [【2021-春季】](/tools/tpl/minimum-depth-of-binary-tree.md)|Easy| 2021.04.29 |
 |0112|[路径总和](https://leetcode-cn.com/problems/path-sum/) | [【2020-秋季】](/tools/tpl/path-sum.md)|Easy| 2020.09.26 |
 |0226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [【2020-秋季】](/tools/tpl/invert-binary-tree.md) [【2021-春季】](/tools/tpl/invert-binary-tree.md)|Easy| 2021.03.04 |
 |0235|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [【2020-秋季】](/tools/tpl/lowest-common-ancestor-of-a-binary-search-tree.md) [【2021-春季】](/tools/tpl/lowest-common-ancestor-of-a-binary-search-tree.md)|Easy| 2021.02.28 |
