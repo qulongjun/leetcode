@@ -9,7 +9,7 @@
 
 <p><strong>示例 1：</strong></p>
 
-<p><img alt="" src="https://aliyun-lc-upload.oss-cn-hangzhou.aliyuncs.com/aliyun-lc-upload/uploads/2018/07/25/question_11.jpg" style="height: 287px; width: 600px;" /></p>
+<p><img alt="" src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg" style="width: 600px; height: 287px;" /></p>
 
 <pre>
 <strong>输入：</strong>[1,8,6,2,5,4,8,3,7]

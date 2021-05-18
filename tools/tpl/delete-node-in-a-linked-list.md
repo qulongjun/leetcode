@@ -7,7 +7,7 @@
 
 <p>现有一个链表 --&nbsp;head =&nbsp;[4,5,1,9]，它可以表示为:</p>
 
-<p><img alt="" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/01/19/237_example.png" style="height: 49px; width: 300px;"></p>
+<p><img alt="" src="https://assets.leetcode.com/uploads/2020/09/01/node1.jpg" style="width: 450px; height: 322px;" /></p>
 
 <p>&nbsp;</p>
 

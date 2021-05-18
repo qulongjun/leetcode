@@ -10,7 +10,7 @@
 <p> </p>
 
 <p><strong>示例 1：</strong></p>
-<img src="https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png" />
+<img src="https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png" style="width: 400px; height: 183px;" />
 <pre>
 <strong>输入：</strong>m = 3, n = 7
 <strong>输出：</strong>28</pre>

@@ -81,13 +81,22 @@ function renderTemplate(renderList) {
             const questionTitle = questionBuf[i].replace(' * https://leetcode-cn.com/problems/', '').replace('/description/', '');
             getProblem(questionTitle).then(res => {
                 console.log('正在编译 ' + res.translatedTitle);
+                let translatedContent = res.translatedContent;
+                const imgReg = /<img.*?(?:>|\/>)/gi;
+                const originImgList = res.content.match(imgReg);
+                const translatedImgList = res.translatedContent.match(imgReg) || [];
+                
+                for(let i = 0; i < translatedImgList.length; i++){
+                    translatedContent = translatedContent.replace(translatedImgList[i], originImgList[i]);
+                }
+
                 const difficulty = renderList[0].indexOf('easy') !== -1 ? 0 : renderList[0].indexOf('medium') !== -1 ? 1 : 2;
                 header.push(`<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">${res.id}. ${res.translatedTitle}</div>`);
                 header.push(`<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: ${ProblemDifficultyColor[difficulty]};">${ProblemDifficulty[difficulty]}</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;${res.tag.length === 0 ? '暂无' : res.tag.map(item => `<code>${item}</code>`).join('&nbsp;')}</span></div><div><span style="margin-right: 15px;"><a href="${'https://leetcode.com/problems/'+ questionTitle + '/'}">英文原题</a></span><span><a href="${'https://leetcode-cn.com/problems/'+ questionTitle + '/'}">访问源站</a></span></div>`);
 
                 header.push('<hr style="height: 1px; margin: 1em 0px;" />');
 
-                questionData.push(res.translatedContent.replaceAll('<=', '&lt;=').replaceAll('>=', '&gt;='));
+                questionData.push(translatedContent.replaceAll('<=', '&lt;=').replaceAll('>=', '&gt;='));
 
                 for (let i = renderList.length - 1; i >= 0; i--) {
                     let data = fs.readFileSync(renderList[i], 'utf8').split(/\r\n|\n|\r/gm);
