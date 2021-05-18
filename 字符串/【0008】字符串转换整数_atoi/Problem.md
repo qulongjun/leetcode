@@ -1,6 +1,3 @@
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">8. 字符串转换整数 (atoi)</div>
-<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: rgb(90, 183, 38);">Easy</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;<code>Math</code>&nbsp;<code>String</code></span></div><div><span style="margin-right: 15px;"><a href="https://leetcode.com/problems/string-to-integer-atoi/">英文原题</a></span><span><a href="https://leetcode-cn.com/problems/string-to-integer-atoi/">访问源站</a></span></div>
-<hr style="height: 1px; margin: 1em 0px;" />
 <p>请你来实现一个 <code>myAtoi(string s)</code> 函数，使其能将字符串转换成一个 32 位有符号整数（类似 C/C++ 中的 <code>atoi</code> 函数）。</p>
 
 <p>函数 <code>myAtoi(string s)</code> 的算法如下：</p>

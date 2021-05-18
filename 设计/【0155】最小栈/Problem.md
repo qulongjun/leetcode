@@ -1,6 +1,3 @@
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">155. 最小栈</div>
-<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: rgb(90, 183, 38);">Easy</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;<code>Stack</code>&nbsp;<code>Design</code></span></div><div><span style="margin-right: 15px;"><a href="https://leetcode.com/problems/min-stack/">英文原题</a></span><span><a href="https://leetcode-cn.com/problems/min-stack/">访问源站</a></span></div>
-<hr style="height: 1px; margin: 1em 0px;" />
 <p>设计一个支持 <code>push</code> ，<code>pop</code> ，<code>top</code> 操作，并能在常数时间内检索到最小元素的栈。</p>
 
 <ul>

@@ -1,6 +1,3 @@
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">131. 分割回文串</div>
-<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: rgb(90, 183, 38);">Easy</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;<code>Depth-first Search</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Backtracking</code></span></div><div><span style="margin-right: 15px;"><a href="https://leetcode.com/problems/palindrome-partitioning/">英文原题</a></span><span><a href="https://leetcode-cn.com/problems/palindrome-partitioning/">访问源站</a></span></div>
-<hr style="height: 1px; margin: 1em 0px;" />
 <p>给你一个字符串 <code>s</code>，请你将<em> </em><code>s</code><em> </em>分割成一些子串，使每个子串都是 <strong>回文串</strong> 。返回 <code>s</code> 所有可能的分割方案。</p>
 
 <p><strong>回文串</strong> 是正着读和反着读都一样的字符串。</p>

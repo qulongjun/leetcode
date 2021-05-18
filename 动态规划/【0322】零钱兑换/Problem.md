@@ -1,6 +1,3 @@
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">322. 零钱兑换</div>
-<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: rgb(90, 183, 38);">Easy</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;<code>Dynamic Programming</code></span></div><div><span style="margin-right: 15px;"><a href="https://leetcode.com/problems/coin-change/">英文原题</a></span><span><a href="https://leetcode-cn.com/problems/coin-change/">访问源站</a></span></div>
-<hr style="height: 1px; margin: 1em 0px;" />
 <p>给定不同面额的硬币 <code>coins</code> 和一个总金额 <code>amount</code>。编写一个函数来计算可以凑成总金额所需的最少的硬币个数。如果没有任何一种硬币组合能组成总金额，返回 <code>-1</code>。</p>
 
 <p>你可以认为每种硬币的数量是无限的。</p>

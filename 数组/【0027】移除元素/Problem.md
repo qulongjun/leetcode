@@ -1,6 +1,3 @@
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">27. 移除元素</div>
-<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: rgb(90, 183, 38);">Easy</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;<code>Array</code>&nbsp;<code>Two Pointers</code></span></div><div><span style="margin-right: 15px;"><a href="https://leetcode.com/problems/remove-element/">英文原题</a></span><span><a href="https://leetcode-cn.com/problems/remove-element/">访问源站</a></span></div>
-<hr style="height: 1px; margin: 1em 0px;" />
 <p>给你一个数组 <code>nums</code><em> </em>和一个值 <code>val</code>，你需要 <strong><a href="https://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95" target="_blank">原地</a></strong> 移除所有数值等于 <code>val</code><em> </em>的元素，并返回移除后数组的新长度。</p>
 
 <p>不要使用额外的数组空间，你必须仅使用 <code>O(1)</code> 额外空间并 <strong><a href="https://baike.baidu.com/item/%E5%8E%9F%E5%9C%B0%E7%AE%97%E6%B3%95" target="_blank">原地 </a>修改输入数组</strong>。</p>

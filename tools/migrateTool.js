@@ -53,14 +53,6 @@ login();
 var pool = new taskPool();
 pool.removeTask();
 
-const ProblemDifficulty = ['Easy', 'Medium', 'Hard'];
-// const DIFF = ["Easy", "Medium", "Hard"];
-const ProblemDifficultyColor = [
-  "rgb(90, 183, 38)",
-  "rgb(255, 161, 25)",
-  "rgb(236, 76, 71)",
-];
-
 for (let i = 0; i < validFold.length; i++) {
   fs.readdir(pathName + "/" + validFold[i], function (err, files) {
     for (let j = 0; j < files.length; j++) {
@@ -92,9 +84,7 @@ for (let i = 0; i < validFold.length; i++) {
                     return new Promise((resolve) => {
                       setTimeout(() => {
                         getProblem(questionTitle).then((res) => {
-                          let header = [];
                           let questionData = [];
-                          let difficulty = res.difficulty;
 
                           let translatedContent = res.translatedContent;
                           const imgReg = /<img.*?(?:>|\/>)/gi;
@@ -109,35 +99,6 @@ for (let i = 0; i < validFold.length; i++) {
                             );
                           }
 
-                          header.push(
-                            `<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">${res.id}. ${res.translatedTitle}</div>`
-                          );
-                          header.push(
-                            `<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: ${
-                              ProblemDifficultyColor[difficulty]
-                            };">${
-                              ProblemDifficulty[difficulty]
-                            }</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;${
-                              res.tag.length === 0
-                                ? "暂无"
-                                : res.tag
-                                    .map((item) => `<code>${item}</code>`)
-                                    .join("&nbsp;")
-                            }</span></div><div><span style="margin-right: 15px;"><a href="${
-                              "https://leetcode.com/problems/" +
-                              questionTitle +
-                              "/"
-                            }">英文原题</a></span><span><a href="${
-                              "https://leetcode-cn.com/problems/" +
-                              questionTitle +
-                              "/"
-                            }">访问源站</a></span></div>`
-                          );
-
-                          header.push(
-                            '<hr style="height: 1px; margin: 1em 0px;" />'
-                          );
-
                           questionData.push(
                             translatedContent
                               .replaceAll("<=", "&lt;=")
@@ -147,7 +108,7 @@ for (let i = 0; i < validFold.length; i++) {
                           if (fs.existsSync(newPath + "/Problem.md")) {
                             fs.unlinkSync(newPath + "/Problem.md");
                           }
-                          writeFileToLine([].concat(header).concat(questionData), '${data}', newPath + "/Problem.md");
+                          writeFileToLine(questionData, '${data}', newPath + "/Problem.md");
                           resolve();
                         });
                       }, 2000);

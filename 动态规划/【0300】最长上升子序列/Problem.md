@@ -1,6 +1,3 @@
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">300. 最长递增子序列</div>
-<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: rgb(90, 183, 38);">Easy</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;<code>Binary Search</code>&nbsp;<code>Dynamic Programming</code></span></div><div><span style="margin-right: 15px;"><a href="https://leetcode.com/problems/longest-increasing-subsequence/">英文原题</a></span><span><a href="https://leetcode-cn.com/problems/longest-increasing-subsequence/">访问源站</a></span></div>
-<hr style="height: 1px; margin: 1em 0px;" />
 <p>给你一个整数数组 <code>nums</code> ，找到其中最长严格递增子序列的长度。</p>
 
 <p>子序列是由数组派生而来的序列，删除（或不删除）数组中的元素而不改变其余元素的顺序。例如，<code>[3,6,2,7]</code> 是数组 <code>[0,3,1,6,2,2,7]</code> 的子序列。</p>

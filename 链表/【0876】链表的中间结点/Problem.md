@@ -1,6 +1,3 @@
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">908. 链表的中间结点</div>
-<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: rgb(90, 183, 38);">Easy</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;<code>Linked List</code></span></div><div><span style="margin-right: 15px;"><a href="https://leetcode.com/problems/middle-of-the-linked-list/">英文原题</a></span><span><a href="https://leetcode-cn.com/problems/middle-of-the-linked-list/">访问源站</a></span></div>
-<hr style="height: 1px; margin: 1em 0px;" />
 <p>给定一个头结点为 <code>head</code> 的非空单链表，返回链表的中间结点。</p>
 
 <p>如果有两个中间结点，则返回第二个中间结点。</p>

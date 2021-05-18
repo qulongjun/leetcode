@@ -1,6 +1,3 @@
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">232. 用栈实现队列</div>
-<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: rgb(90, 183, 38);">Easy</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;<code>Stack</code>&nbsp;<code>Design</code></span></div><div><span style="margin-right: 15px;"><a href="https://leetcode.com/problems/implement-queue-using-stacks/">英文原题</a></span><span><a href="https://leetcode-cn.com/problems/implement-queue-using-stacks/">访问源站</a></span></div>
-<hr style="height: 1px; margin: 1em 0px;" />
 <p>请你仅使用两个栈实现先入先出队列。队列应当支持一般队列支持的所有操作（<code>push</code>、<code>pop</code>、<code>peek</code>、<code>empty</code>）：</p>
 
 <p>实现 <code>MyQueue</code> 类：</p>

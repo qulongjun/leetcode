@@ -1,6 +1,3 @@
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">292. Nim 游戏</div>
-<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: rgb(90, 183, 38);">Easy</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;<code>Brainteaser</code>&nbsp;<code>Minimax</code></span></div><div><span style="margin-right: 15px;"><a href="https://leetcode.com/problems/nim-game/">英文原题</a></span><span><a href="https://leetcode-cn.com/problems/nim-game/">访问源站</a></span></div>
-<hr style="height: 1px; margin: 1em 0px;" />
 <p>你和你的朋友，两个人一起玩 <a href="https://baike.baidu.com/item/Nim游戏/6737105" target="_blank">Nim 游戏</a>：</p>
 
 <ul>

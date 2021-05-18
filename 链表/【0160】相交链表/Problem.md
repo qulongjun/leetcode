@@ -1,6 +1,3 @@
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">160. 相交链表</div>
-<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: rgb(90, 183, 38);">Easy</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;<code>Linked List</code></span></div><div><span style="margin-right: 15px;"><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">英文原题</a></span><span><a href="https://leetcode-cn.com/problems/intersection-of-two-linked-lists/">访问源站</a></span></div>
-<hr style="height: 1px; margin: 1em 0px;" />
 <p>编写一个程序，找到两个单链表相交的起始节点。</p>
 
 <p>如下面的两个链表<strong>：</strong></p>

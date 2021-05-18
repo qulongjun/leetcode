@@ -1,6 +1,3 @@
-<div style="font-size: 20px; margin-bottom: 15px; font-weight: bold;">83. 删除排序链表中的重复元素</div>
-<div style="display: flex; font-size: 14px; justify-content: space-between;"><div><span style="margin-right: 30px;">难度:&nbsp;&nbsp;<label style="color: rgb(90, 183, 38);">Easy</label></span><span style="margin-right: 30px;">标签:&nbsp;&nbsp;<code>Linked List</code></span></div><div><span style="margin-right: 15px;"><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/">英文原题</a></span><span><a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/">访问源站</a></span></div>
-<hr style="height: 1px; margin: 1em 0px;" />
 <p>存在一个按升序排列的链表，给你这个链表的头节点 <code>head</code> ，请你删除所有重复的元素，使每个元素 <strong>只出现一次</strong> 。</p>
 
 <p>返回同样按升序排列的结果链表。</p>
