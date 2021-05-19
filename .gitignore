@@ -2,9 +2,3 @@
 .idea
 .vscode
 .vim
-
-_book
-node_modules
-# tools/tpl
-# tools/markdowns
-tools/config.ini
