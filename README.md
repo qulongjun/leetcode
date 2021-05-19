@@ -1,14 +1,10 @@
-# ![leetcode](/tools/images/logo_en.svg)
+# ![leetcode](./logo.svg)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/qulongjun/leetcode)
 ![GitHub last commit](https://img.shields.io/github/last-commit/qulongjun/leetcode)
 ![GitHub](https://img.shields.io/github/license/qulongjun/leetcode)
 
 只有熟练掌握基础的数据结构与算法，才能对复杂问题迎刃有余。
-
-## 🌈  官方网站
-
-[点此访问](http://leetcode.qulongjun.com/) 
 
 ## 📘 仓库介绍
 
