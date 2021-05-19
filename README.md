@@ -1,19 +1,14 @@
-![leetcode](/tools/images/logo_en.svg)
+# ![leetcode](/tools/images/logo_en.svg)
 
-----
 ![GitHub top language](https://img.shields.io/github/languages/top/qulongjun/leetcode)
 ![GitHub last commit](https://img.shields.io/github/last-commit/qulongjun/leetcode)
 ![GitHub](https://img.shields.io/github/license/qulongjun/leetcode)
 
 只有熟练掌握基础的数据结构与算法，才能对复杂问题迎刃有余。
 
-## 🔱 关于作者
+## 🌈  官方网站
 
-笔者是一个刚入门算法数月的“纯小白”，深知前端同学在刷题时候，苦于网上对于 `Javascript` 的解法的匮乏，也苦于找不到解题思路。因此笔者打算将自己刷题过程中 `AC` 的题目进行记录并整理，作为开源社区贡献的一部分，欢迎大家食用品鉴。
-
-这个仓库还在不停的补充之中，不足之处，还请各位大佬多多指点。
-
-> 满纸荒唐言，一把辛酸泪。都云作者痴 谁解其中味？
+[点此访问](http://leetcode.qulongjun.com/) 
 
 ## 📘 仓库介绍
 
@@ -29,7 +24,15 @@
 
 > 本仓库会记录笔者的每一次 `AC` 记录，即使是一些 `时间 / 空间复杂度` 较高的解法, 随着刷题次数的逐步增加, 也会逐步记录一些更低复杂度的解法, 主要目的是用以回味曾经的思考历程。
 
-## ✏️ 目标读者
+## 🔱 关于笔者
+
+笔者是一个刚入门算法数月的“纯小白”，深知前端同学在刷题时候，苦于网上对于 `Javascript` 的解法的匮乏，也苦于找不到解题思路。因此笔者打算将自己刷题过程中 `AC` 的题目进行记录并整理，作为开源社区贡献的一部分，欢迎大家食用品鉴。
+
+这个仓库还在不停的补充之中，不足之处，还请各位大佬多多指点。
+
+> 满纸荒唐言，一把辛酸泪。都云作者痴 谁解其中味？
+
+## 🌍  目标读者
 
 * 想提高算法能力的编程爱好者。
 * 想在面试前进行前端刷题的小伙伴。
@@ -78,8 +81,8 @@
 |:---:| :-----: | :--------: | :----------: | :--------: |
 | 0001 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [Solutions](./数组/【0001】两数之和/Solutions) | Easy | 2021-03-01  |
 | 0011 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [Solutions](./数组/【0011】盛最多水的容器/Solutions) | Medium | 2021-03-29  |
-| 0015 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [Solutions](./数组/【0015】三数之和/Solutions) | Medium | 空 |
-| 0018 | [四数之和](https://leetcode-cn.com/problems/4sum/) | [Solutions](./数组/【0018】四数之和/Solutions) | Medium | 空 |
+| 0015 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [Solutions](./数组/【0015】三数之和/Solutions) | Medium | 2020-09-28 |
+| 0018 | [四数之和](https://leetcode-cn.com/problems/4sum/) | [Solutions](./数组/【0018】四数之和/Solutions) | Medium | 2020-09-28 |
 | 0026 | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Solutions](./数组/【0026】删除排序数组中的重复项/Solutions) | Easy | 2021-02-27  |
 | 0027 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [Solutions](./数组/【0027】移除元素/Solutions) | Easy | 2021-03-05  |
 | 0034 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solutions](./数组/【0034】在排序数组中查找元素的第一个和最后一个位置/Solutions) | Medium | 2021-03-29  |
@@ -96,9 +99,9 @@
 | 0268 | [丢失的数字](https://leetcode-cn.com/problems/missing-number/) | [Solutions](./数组/【0268】丢失的数字/Solutions) | Easy | 2021-02-26  |
 | 0283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Solutions](./数组/【0283】移动零/Solutions) | Easy | 2021-02-25  |
 | 0287 | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [Solutions](./数组/【0287】寻找重复数/Solutions) | Medium | 2021-03-04  |
-| 0448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solutions](./数组/【0448】找到所有数组中消失的数字/Solutions) | Easy | 空 |
-| 0898 | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | [Solutions](./数组/【0867】转置矩阵/Solutions) | Easy | 2021-03-23  |
-| 1019 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [Solutions](./数组/【0977】有序数组的平方/Solutions) | Easy | 2021-03-23  |
+| 0448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solutions](./数组/【0448】找到所有数组中消失的数字/Solutions) | Easy | 2021-03-04 |
+| 0867 | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | [Solutions](./数组/【0867】转置矩阵/Solutions) | Easy | 2021-03-23  |
+| 0977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [Solutions](./数组/【0977】有序数组的平方/Solutions) | Easy | 2021-03-23  |
 
 #### 树
 
@@ -110,29 +113,28 @@
 | 0101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [Solutions](./树/【0101】对称二叉树/Solutions) | Easy | 2021-02-28  |
 | 0102 | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [Solutions](./树/【0102】二叉树的层序遍历/Solutions) | Medium | 2021-03-03  |
 | 0103 | [二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solutions](./树/【0103】二叉树的锯齿形层序遍历/Solutions) | Medium | 2021-03-05  |
-| 0103 | [二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solutions](./树/【0103】二叉树的锯齿形层次遍历/Solutions) | Medium | 2021-03-05  |
 | 0104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Solutions](./树/【0104】二叉树的最大深度/Solutions) | Easy | 2021-02-24  |
 | 0105 | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solutions](./树/【0105】从前序与中序遍历序列构造二叉树/Solutions) | Medium | 2021-03-06  |
 | 0106 | [从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solutions](./树/【0106】从中序与后序遍历序列构造二叉树/Solutions) | Medium | 2021-03-06  |
-| 0107 | [二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [Solutions](./树/【0107】二叉树的层次遍历_ii/Solutions) | Medium | 空 |
+| 0107 | [二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [Solutions](./树/【0107】二叉树的层次遍历_ii/Solutions) | Medium | 2020-09-25 |
 | 0108 | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solutions](./树/【0108】将有序数组转换为二叉搜索树/Solutions) | Easy | 2021-03-05  |
 | 0110 | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [Solutions](./树/【0110】平衡二叉树/Solutions) | Easy | 2021-03-04  |
 | 0111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Solutions](./树/【0111】二叉树的最小深度/Solutions) | Easy | 2021-04-29  |
-| 0112 | [路径总和](https://leetcode-cn.com/problems/path-sum/) | [Solutions](./树/【0112】路径总和/Solutions) | Easy | 空 |
-| 0113 | [路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [Solutions](./树/【0113】路径总和_ii/Solutions) | Medium | 空 |
-| 0114 | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [Solutions](./树/【0114】二叉树展开为链表/Solutions) | Medium | 空 |
+| 0112 | [路径总和](https://leetcode-cn.com/problems/path-sum/) | [Solutions](./树/【0112】路径总和/Solutions) | Easy | 2020-09-26 |
+| 0113 | [路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [Solutions](./树/【0113】路径总和_ii/Solutions) | Medium | 2020-09-26 |
+| 0114 | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [Solutions](./树/【0114】二叉树展开为链表/Solutions) | Medium | 2021-02-08 |
 | 0116 | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [Solutions](./树/【0116】填充每个节点的下一个右侧节点指针/Solutions) | Medium | 2021-03-05  |
-| 0117 | [填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solutions](./树/【0117】填充每个节点的下一个右侧节点指针_ii/Solutions) | Medium | 空 |
-| 0129 | [求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Solutions](./树/【0129】求根到叶子节点数字之和/Solutions) | Medium | 空 |
-| 0144 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solutions](./树/【0144】二叉树的前序遍历/Solutions) | Medium | 空 |
-| 0145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Solutions](./树/【0145】二叉树的后序遍历/Solutions) | Easy | 空 |
-| 0199 | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [Solutions](./树/【0199】二叉树的右视图/Solutions) | Medium | 空 |
+| 0117 | [填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solutions](./树/【0117】填充每个节点的下一个右侧节点指针_ii/Solutions) | Medium | 2021-02-09 |
+| 0129 | [求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Solutions](./树/【0129】求根到叶子节点数字之和/Solutions) | Medium | 2020-09-26 |
+| 0144 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solutions](./树/【0144】二叉树的前序遍历/Solutions) | Medium | 2020-09-25 |
+| 0145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Solutions](./树/【0145】二叉树的后序遍历/Solutions) | Easy | 2020-09-29 |
+| 0199 | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [Solutions](./树/【0199】二叉树的右视图/Solutions) | Medium | 2020-09-26 |
 | 0226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [Solutions](./树/【0226】翻转二叉树/Solutions) | Easy | 2021-03-04  |
 | 0230 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [Solutions](./树/【0230】二叉搜索树中第k小的元素/Solutions) | Medium | 2021-03-05  |
 | 0235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solutions](./树/【0235】二叉搜索树的最近公共祖先/Solutions) | Easy | 2021-03-05  |
 | 0236 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solutions](./树/【0236】二叉树的最近公共祖先/Solutions) | Medium | 2021-03-05  |
-| 1013 | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | [Solutions](./树/【0509】斐波那契数/Solutions) | Easy | 空 |
-| 0543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Solutions](./树/【0543】二叉树的直径/Solutions) | Easy | 空 |
+| 0509 | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | [Solutions](./树/【0509】斐波那契数/Solutions) | Easy | 2020-09-29 |
+| 0543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Solutions](./树/【0543】二叉树的直径/Solutions) | Easy | 2021-02-12 |
 | 0617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Solutions](./树/【0617】合并二叉树/Solutions) | Easy | 2021-03-04  |
 
 #### 链表
@@ -155,7 +157,7 @@
 | 0234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Solutions](./链表/【0234】回文链表/Solutions) | Easy | 2021-03-01  |
 | 0237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Solutions](./链表/【0237】删除链表中的节点/Solutions) | Easy | 2021-02-24  |
 | 0328 | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Solutions](./链表/【0328】奇偶链表/Solutions) | Medium | 2021-03-05  |
-| 0908 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Solutions](./链表/【0876】链表的中间结点/Solutions) | Easy | 2021-04-14  |
+| 0876 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Solutions](./链表/【0876】链表的中间结点/Solutions) | Easy | 2021-04-14  |
 
 #### 动态规划
 
@@ -167,9 +169,9 @@
 | 0070 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [Solutions](./动态规划/【0070】爬楼梯/Solutions) | Easy | 2021-02-27  |
 | 0121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Solutions](./动态规划/【0121】买卖股票的最佳时机/Solutions) | Easy | 2021-03-29  |
 | 0198 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [Solutions](./动态规划/【0198】打家劫舍/Solutions) | Medium | 2021-03-29  |
-| 0300 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Solutions](./动态规划/【0300】最长上升子序列/Solutions) | Medium | 空 |
+| 0300 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Solutions](./动态规划/【0300】最长上升子序列/Solutions) | Medium | 2020-09-30 |
 | 0322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [Solutions](./动态规划/【0322】零钱兑换/Solutions) | Medium | 2021-04-26  |
-| 1035 | [二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [Solutions](./动态规划/【0993】二叉树的堂兄弟节点/Solutions) | Easy | 2021-05-17  |
+| 0993 | [二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [Solutions](./动态规划/【0993】二叉树的堂兄弟节点/Solutions) | Easy | 2021-05-17  |
 
 #### 哈希表
 
@@ -193,7 +195,7 @@
 | 0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [Solutions](./回溯算法/【0046】全排列/Solutions) | Medium | 2021-02-28  |
 | 0077 | [组合](https://leetcode-cn.com/problems/combinations/) | [Solutions](./回溯算法/【0077】组合/Solutions) | Medium | 2021-03-23  |
 | 0078 | [子集](https://leetcode-cn.com/problems/subsets/) | [Solutions](./回溯算法/【0078】子集/Solutions) | Medium | 2021-02-28  |
-| 0079 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [Solutions](./回溯算法/【0079】单词搜索/Solutions) | Medium | 空 |
+| 0079 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [Solutions](./回溯算法/【0079】单词搜索/Solutions) | Medium | 2021-02-11 |
 | 0131 | [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | [Solutions](./回溯算法/【0131】分割回文串/Solutions) | Medium | 2021-03-05  |
 
 #### 字符串
@@ -201,7 +203,7 @@
 | # | 问题 | 解答 | 难度 | 最后提交日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 | 0003 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Solutions](./字符串/【0003】无重复字符的最长子串/Solutions) | Medium | 2021-03-05  |
-| 0006 | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [Solutions](./字符串/【0006】z_字形变换/Solutions) | Medium | 空 |
+| 0006 | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [Solutions](./字符串/【0006】z_字形变换/Solutions) | Medium | 2020-09-26 |
 | 0008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [Solutions](./字符串/【0008】字符串转换整数_atoi/Solutions) | Medium | 2021-03-04  |
 | 0014 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [Solutions](./字符串/【0014】最长公共前缀/Solutions) | Easy | 2021-02-26  |
 | 0020 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Solutions](./字符串/【0020】有效的括号/Solutions) | Easy | 2021-02-27  |
@@ -219,7 +221,7 @@
 | 0007 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [Solutions](./数学/【0007】整数反转/Solutions) | Easy | 2021-02-27  |
 | 0009 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [Solutions](./数学/【0009】回文数/Solutions) | Easy | 2021-02-27  |
 | 0013 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [Solutions](./数学/【0013】罗马数字转整数/Solutions) | Easy | 2021-02-28  |
-| 0168 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [Solutions](./数学/【0168】excel表列名称/Solutions) | Easy | 空 |
+| 0168 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [Solutions](./数学/【0168】excel表列名称/Solutions) | Easy | 2020-10-30 |
 | 0171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Solutions](./数学/【0171】excel表列序号/Solutions) | Easy | 2021-02-25  |
 | 0202 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | [Solutions](./数学/【0202】快乐数/Solutions) | Easy | 2021-02-28  |
 | 0326 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | [Solutions](./数学/【0326】3_的幂/Solutions) | Easy | 2021-03-01  |
@@ -249,9 +251,9 @@
 | # | 问题 | 解答 | 难度 | 最后提交日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 | 0412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [Solutions](./其他/【0412】fizz_buzz/Solutions) | Easy | 2021-02-25  |
-| 0784 | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | [Solutions](./其他/【0701】二叉搜索树中的插入操作/Solutions) | Medium | 空 |
-| 1603 | [一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/) | [Solutions](./其他/【1480】一维数组的动态和/Solutions) | Easy | 空 |
-| 1293 | [存在连续三个奇数的数组](https://leetcode-cn.com/problems/three-consecutive-odds/) | [Solutions](./其他/【1550】存在连续三个奇数的数组/Solutions) | Easy | 空 |
+| 0701 | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | [Solutions](./其他/【0701】二叉搜索树中的插入操作/Solutions) | Medium | 2020-09-30 |
+| 1480 | [一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/) | [Solutions](./其他/【1480】一维数组的动态和/Solutions) | Easy | 2020-09-27 |
+| 1550 | [存在连续三个奇数的数组](https://leetcode-cn.com/problems/three-consecutive-odds/) | [Solutions](./其他/【1550】存在连续三个奇数的数组/Solutions) | Easy | 2020-10-30 |
 
 ## 💝 贡献
 
@@ -269,4 +271,4 @@
 
 ## 🍖 License
 
-MIT © qulongjun
+[MIT]('./LICENSE.md') © qulongjun
