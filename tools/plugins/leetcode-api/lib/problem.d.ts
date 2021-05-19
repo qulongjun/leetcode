@@ -5,6 +5,8 @@ declare class Problem {
     id?: number | undefined;
     title?: string | undefined;
     difficulty?: ProblemDifficulty | undefined;
+    originDifficulty?: string | undefined;
+    titleSlug?: string | undefined;
     starred?: boolean | undefined;
     locked?: boolean | undefined;
     likes?: number | undefined;

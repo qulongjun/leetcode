@@ -81,6 +81,7 @@ var Problem = /** @class */ (function () {
                         this.id = Number(question.questionId);
                         this.title = question.title;
                         this.difficulty = helper_1.default.difficultyMap(question.difficulty);
+                        this.originDifficulty = question.difficulty;
                         this.starred = question.isLiked !== null;
                         this.locked = question.isPaidOnly;
                         this.likes = question.likes;

@@ -5,7 +5,6 @@ const LEETCODE = OpenIniFile("tools/config.ini").LEETCODE;
 
 // 登录 Leetcode
 async function login() {
-  
   leetcode = await Leetcode.build(
     LEETCODE.username,
     LEETCODE.password,
@@ -36,8 +35,18 @@ async function getProblems(problemList) {
   return results;
 }
 
+async function getSubmission(problemSlug) {
+  await login();
+
+  const problem = new Problem(problemSlug);
+
+  return problem.getSubmissions();
+
+}
+
 module.exports = {
   getProblem,
   getProblems,
   login,
+  getSubmission,
 };
