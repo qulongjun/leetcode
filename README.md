@@ -244,14 +244,3 @@
 ## 🍖 最后
 
 一起开始刷题吧~
-
-<style>
-table {
-    display:table;
-    width:100%;
-}
-
-table th:nth-of-type(2) {
-    width:50%;
-}
-</style>
