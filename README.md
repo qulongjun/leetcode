@@ -71,14 +71,21 @@
 
 ## ✨ Problem Guide
 
+#### 系列题型
+
+##### N数之和
+| # | 问题 | 解答 | 难度 | 最后提交日期 |
+|:---:| :-----: | :--------: | :----------: | :--------: |
+| 0001 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [Solutions](./_系列题型_/N数之和/【0001】两数之和/Solutions) | Easy | 2021-05-20  |
+| 0015 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [Solutions](./_系列题型_/N数之和/【0015】三数之和/Solutions) | Medium | 2020-09-28 |
+| 0018 | [四数之和](https://leetcode-cn.com/problems/4sum/) | [Solutions](./_系列题型_/N数之和/【0018】四数之和/Solutions) | Medium | 2020-09-28 |
+| 0167 | [两数之和_ii_输入有序数组](https://leetcode-cn.com/problems/two-sum/) | [Solutions](./_系列题型_/N数之和/【0167】两数之和_ii_输入有序数组/Solutions) | Easy | 2021-05-20  |
+
 #### 数组
 
 | # | 问题 | 解答 | 难度 | 最后提交日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
-| 0001 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [Solutions](./数组/【0001】两数之和/Solutions) | Easy | 2021-05-20  |
 | 0011 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [Solutions](./数组/【0011】盛最多水的容器/Solutions) | Medium | 2021-03-29  |
-| 0015 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [Solutions](./数组/【0015】三数之和/Solutions) | Medium | 2020-09-28 |
-| 0018 | [四数之和](https://leetcode-cn.com/problems/4sum/) | [Solutions](./数组/【0018】四数之和/Solutions) | Medium | 2020-09-28 |
 | 0026 | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Solutions](./数组/【0026】删除排序数组中的重复项/Solutions) | Easy | 2021-02-27  |
 | 0027 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [Solutions](./数组/【0027】移除元素/Solutions) | Easy | 2021-03-05  |
 | 0034 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solutions](./数组/【0034】在排序数组中查找元素的第一个和最后一个位置/Solutions) | Medium | 2021-03-29  |
