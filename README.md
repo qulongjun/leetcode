@@ -79,7 +79,8 @@
 | 0001 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [Solutions](./_系列题型_/N数之和/【0001】两数之和/Solutions) | Easy | 2021-05-20  |
 | 0015 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [Solutions](./_系列题型_/N数之和/【0015】三数之和/Solutions) | Medium | 2020-09-28 |
 | 0018 | [四数之和](https://leetcode-cn.com/problems/4sum/) | [Solutions](./_系列题型_/N数之和/【0018】四数之和/Solutions) | Medium | 2020-09-28 |
-| 0167 | [两数之和_ii_输入有序数组](https://leetcode-cn.com/problems/two-sum/) | [Solutions](./_系列题型_/N数之和/【0167】两数之和_ii_输入有序数组/Solutions) | Easy | 2021-05-20  |
+| 0167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [Solutions](./_系列题型_/N数之和/【0167】两数之和_ii_输入有序数组/Solutions) | Easy | 2021-05-20  |
+| 0653 | [两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [Solutions](./_系列题型_/N数之和/【0653】两数之和_iv_输入_bst/Solutions) | Easy | 2021-05-20  |
 
 #### 数组
 
