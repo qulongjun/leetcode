@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "graphql": "^15.5.0",
+    "graphql-request": "^3.4.0",
+    "inquirer": "^8.1.0",
+    "request-promise-native": "^1.0.9"
+  }
+}

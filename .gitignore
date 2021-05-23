@@ -2,3 +2,6 @@
 .idea
 .vscode
 .vim
+
+node_modules/
+.tools/config.ini
