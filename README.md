@@ -127,7 +127,7 @@
 | 0116 | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [Solutions](./树/【0116】填充每个节点的下一个右侧节点指针/Solutions) | Medium | 2021-03-05  |
 | 0117 | [填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solutions](./树/【0117】填充每个节点的下一个右侧节点指针_ii/Solutions) | Medium | 2021-02-09 |
 | 0129 | [求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Solutions](./树/【0129】求根到叶子节点数字之和/Solutions) | Medium | 2020-09-26 |
-| 0144 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solutions](./树/【0144】二叉树的前序遍历/Solutions) | Medium | 2020-09-25 |
+| 0144 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solutions](./树/【0144】二叉树的前序遍历/Solutions) | Medium | 2021-05-23 |
 | 0145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Solutions](./树/【0145】二叉树的后序遍历/Solutions) | Easy | 2020-09-29 |
 | 0199 | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [Solutions](./树/【0199】二叉树的右视图/Solutions) | Medium | 2020-09-26 |
 | 0226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [Solutions](./树/【0226】翻转二叉树/Solutions) | Easy | 2021-03-04  |
