@@ -138,6 +138,7 @@
 | 0230 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [Solutions](./树/【0230】二叉搜索树中第k小的元素/Solutions) | Medium | 2021-03-05  |
 | 0235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solutions](./树/【0235】二叉搜索树的最近公共祖先/Solutions) | Easy | 2021-03-05  |
 | 0236 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solutions](./树/【0236】二叉树的最近公共祖先/Solutions) | Medium | 2021-03-05  |
+| 0257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [Solutions](./树/【0257】二叉树的所有路径/Solutions) | Easy | 2021-05-24  |
 | 0509 | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | [Solutions](./树/【0509】斐波那契数/Solutions) | Easy | 2020-09-29 |
 | 0543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Solutions](./树/【0543】二叉树的直径/Solutions) | Easy | 2021-02-12 |
 | 0617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Solutions](./树/【0617】合并二叉树/Solutions) | Easy | 2021-03-04  |
