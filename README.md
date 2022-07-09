@@ -1,4 +1,7 @@
-# ![leetcode](./logo.svg)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="logo.webp" width="80" height="80">
+    <span style="font-size: 45px; margin-left: 10px; color: #000;">Static.</span>
+</div>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/qulongjun/leetcode)
 ![GitHub last commit](https://img.shields.io/github/last-commit/qulongjun/leetcode)
