@@ -167,7 +167,7 @@
 | 0147 | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | [Solutions](./链表/【0147】对链表进行插入排序/Solutions) | Medium | 2021-02-28  |
 | 0148 | [排序链表](https://leetcode-cn.com/problems/sort-list/) | [Solutions](./链表/【0148】排序链表/Solutions) | Medium | 2021-02-28  |
 | 0160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Solutions](./链表/【0160】相交链表/Solutions) | Easy | 2021-02-26  |
-| 0206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Solutions](./链表/【0206】反转链表/Solutions) | Easy | 2021-02-25  |
+| 0206 | [✅ 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Solutions](./链表/【0206】反转链表/Solutions) | Easy | 2022-07-10  |
 | 0234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Solutions](./链表/【0234】回文链表/Solutions) | Easy | 2021-03-01  |
 | 0237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Solutions](./链表/【0237】删除链表中的节点/Solutions) | Easy | 2021-02-24  |
 | 0328 | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Solutions](./链表/【0328】奇偶链表/Solutions) | Medium | 2021-03-05  |
