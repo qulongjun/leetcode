@@ -109,7 +109,7 @@
 | 0048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [Solutions](./数组/【0048】旋转图像/Solutions) | Medium | 2021-03-02  |
 | 0055 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [Solutions](./数组/【0055】跳跃游戏/Solutions) | Medium | 2021-04-13  |
 | 0066 | [加一](https://leetcode-cn.com/problems/plus-one/) | [Solutions](./数组/【0066】加一/Solutions) | Easy | 2021-03-01  |
-| 0088 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Solutions](./数组/【0088】合并两个有序数组/Solutions) | Easy | 2021-02-27  |
+| 0088 | [✅ 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Solutions](./数组/【0088】合并两个有序数组/Solutions) | Easy | 2021-02-27  |
 | 0118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [Solutions](./数组/【0118】杨辉三角/Solutions) | Easy | 2021-02-25  |
 | 0122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solutions](./数组/【0122】买卖股票的最佳时机_ii/Solutions) | Easy | 2021-02-25  |
 | 0169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [Solutions](./数组/【0169】多数元素/Solutions) | Easy | 2021-02-25  |
