@@ -79,7 +79,7 @@
 #### N数之和
 | # | 问题 | 解答 | 难度 | 最后提交日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
-| 0001 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [Solutions](./_系列题型_/N数之和/【0001】两数之和/Solutions) | Easy | 2021-05-20  |
+| 0001 | [✅ 两数之和](https://leetcode-cn.com/problems/two-sum/) | [Solutions](./_系列题型_/N数之和/【0001】两数之和/Solutions) | Easy | 2022-07-13  |
 | 0015 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [Solutions](./_系列题型_/N数之和/【0015】三数之和/Solutions) | Medium | 2021-05-21 |
 | 0016 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [Solutions](./_系列题型_/N数之和/【0016】最接近的三数之和/Solutions) | Medium | 2021-05-21 |
 | 0018 | [四数之和](https://leetcode-cn.com/problems/4sum/) | [Solutions](./_系列题型_/N数之和/【0018】四数之和/Solutions) | Medium | 2021-05-21 |
