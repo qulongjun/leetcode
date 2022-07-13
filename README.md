@@ -206,7 +206,7 @@
 | 0017 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Solutions](./回溯算法/【0017】电话号码的字母组合/Solutions) | Medium | 2021-03-29  |
 | 0022 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [Solutions](./回溯算法/【0022】括号生成/Solutions) | Medium | 2021-03-02  |
 | 0039 | [组合总和](https://leetcode-cn.com/problems/combination-sum/) | [Solutions](./回溯算法/【0039】组合总和/Solutions) | Medium | 2021-03-04  |
-| 0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [Solutions](./回溯算法/【0046】全排列/Solutions) | Medium | 2021-02-28  |
+| 0046 | [✅ 全排列](https://leetcode-cn.com/problems/permutations/) | [Solutions](./回溯算法/【0046】全排列/Solutions) | Medium | 2022-07-13  |
 | 0077 | [组合](https://leetcode-cn.com/problems/combinations/) | [Solutions](./回溯算法/【0077】组合/Solutions) | Medium | 2021-03-23  |
 | 0078 | [子集](https://leetcode-cn.com/problems/subsets/) | [Solutions](./回溯算法/【0078】子集/Solutions) | Medium | 2021-02-28  |
 | 0079 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [Solutions](./回溯算法/【0079】单词搜索/Solutions) | Medium | 2021-02-11 |
