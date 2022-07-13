@@ -226,6 +226,7 @@
 | 0058 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [Solutions](./字符串/【0058】最后一个单词的长度/Solutions) | Easy | 2021-03-06  |
 | 0125 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [Solutions](./字符串/【0125】验证回文串/Solutions) | Easy | 2021-03-01  |
 | 0344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [Solutions](./字符串/【0344】反转字符串/Solutions) | Easy | 2021-02-25  |
+| 0415 | [✅ 字符串相加](https://leetcode.cn/problems/add-strings) | [Solutions](./字符串/【0415】字符串相加/Solutions) | Easy | 2022-07-13  |
 | 0557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [Solutions](./字符串/【0557】反转字符串中的单词_iii/Solutions) | Easy | 2021-02-27  |
 
 ### 数学
