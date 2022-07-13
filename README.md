@@ -180,7 +180,7 @@
 | 0005 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Solutions](./动态规划/【0005】最长回文子串/Solutions) | Medium | 2021-03-12  |
 | 0053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [Solutions](./动态规划/【0053】最大子序和/Solutions) | Easy | 2021-03-12  |
 | 0062 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [Solutions](./动态规划/【0062】不同路径/Solutions) | Medium | 2021-03-13  |
-| 0070 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [Solutions](./动态规划/【0070】爬楼梯/Solutions) | Easy | 2021-02-27  |
+| 0070 | [✅ 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [Solutions](./动态规划/【0070】爬楼梯/Solutions) | Easy | 2022-07-13  |
 | 0121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Solutions](./动态规划/【0121】买卖股票的最佳时机/Solutions) | Easy | 2021-03-29  |
 | 0198 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [Solutions](./动态规划/【0198】打家劫舍/Solutions) | Medium | 2021-03-29  |
 | 0300 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Solutions](./动态规划/【0300】最长上升子序列/Solutions) | Medium | 2020-09-30 |
