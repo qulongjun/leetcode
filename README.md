@@ -220,7 +220,7 @@
 | 0006 | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [Solutions](./字符串/【0006】z_字形变换/Solutions) | Medium | 2020-09-26 |
 | 0008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [Solutions](./字符串/【0008】字符串转换整数_atoi/Solutions) | Medium | 2021-03-04  |
 | 0014 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [Solutions](./字符串/【0014】最长公共前缀/Solutions) | Easy | 2021-02-26  |
-| 0020 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Solutions](./字符串/【0020】有效的括号/Solutions) | Easy | 2021-02-27  |
+| 0020 | [✅ 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Solutions](./字符串/【0020】有效的括号/Solutions) | Easy | 2022-07-13  |
 | 0028 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Solutions](./字符串/【0028】实现_str_str/Solutions) | Easy | 2021-02-26  |
 | 0038 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | [Solutions](./字符串/【0038】外观数列/Solutions) | Easy | 2021-03-02  |
 | 0058 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [Solutions](./字符串/【0058】最后一个单词的长度/Solutions) | Easy | 2021-03-06  |
