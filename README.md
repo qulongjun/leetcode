@@ -121,6 +121,7 @@
 | 0287 | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [Solutions](./数组/【0287】寻找重复数/Solutions) | Medium | 2021-03-04  |
 | 0448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solutions](./数组/【0448】找到所有数组中消失的数字/Solutions) | Easy | 2021-03-04 |
 | 0867 | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | [Solutions](./数组/【0867】转置矩阵/Solutions) | Easy | 2021-03-23  |
+| 0912 | [排序数组](https://leetcode.cn/problems/sort-an-array/) | [Solutions](./数组/【0912】排序数组/Solutions) | Medium | 2022-07-26  |
 | 0977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [Solutions](./数组/【0977】有序数组的平方/Solutions) | Easy | 2021-03-23  |
 
 ### 树
