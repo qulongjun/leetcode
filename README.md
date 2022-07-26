@@ -140,7 +140,7 @@
 | 0114 | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [Solutions](./树/【0114】二叉树展开为链表/Solutions) | Medium | 2021-02-08 |
 | 0116 | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [Solutions](./树/【0116】填充每个节点的下一个右侧节点指针/Solutions) | Medium | 2021-03-05  |
 | 0117 | [填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solutions](./树/【0117】填充每个节点的下一个右侧节点指针_ii/Solutions) | Medium | 2021-02-09 |
-| 0129 | [求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Solutions](./树/【0129】求根到叶子节点数字之和/Solutions) | Medium | 2020-09-26 |
+| 0129 | [求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Solutions](./树/【0129】求根到叶子节点数字之和/Solutions) | Medium | 2022-07-26 |
 | 0226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [Solutions](./树/【0226】翻转二叉树/Solutions) | Easy | 2021-03-04  |
 | 0230 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [Solutions](./树/【0230】二叉搜索树中第k小的元素/Solutions) | Medium | 2021-03-05  |
 | 0235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solutions](./树/【0235】二叉搜索树的最近公共祖先/Solutions) | Easy | 2021-03-05  |
