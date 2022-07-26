@@ -178,7 +178,7 @@
 | # | 问题 | 解答 | 难度 | 最后提交日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 | 0005 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Solutions](./动态规划/【0005】最长回文子串/Solutions) | Medium | 2021-03-12  |
-| 0053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [Solutions](./动态规划/【0053】最大子序和/Solutions) | Easy | 2021-03-12  |
+| 0053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [Solutions](./动态规划/【0053】最大子序和/Solutions) | Easy | 2022-07-26  |
 | 0062 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [Solutions](./动态规划/【0062】不同路径/Solutions) | Medium | 2021-03-13  |
 | 0070 | [✅ 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [Solutions](./动态规划/【0070】爬楼梯/Solutions) | Easy | 2022-07-13  |
 | 0121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Solutions](./动态规划/【0121】买卖股票的最佳时机/Solutions) | Easy | 2021-03-29  |
