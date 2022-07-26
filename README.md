@@ -260,7 +260,7 @@
 
 | # | 问题 | 解答 | 难度 | 最后提交日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
-| 0215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solutions](./堆/【0215】数组中的第k个最大元素/Solutions) | Medium | 2021-03-02  |
+| 0215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Solutions](./堆/【0215】数组中的第k个最大元素/Solutions) | Medium | 2022-07-26  |
 
 ### 其他
 
