@@ -160,7 +160,7 @@
 | 0002 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [Solutions](./链表/【0002】两数相加/Solutions) | Medium | 2021-03-05  |
 | 0019 | [删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Solutions](./链表/【0019】删除链表的倒数第_n_个结点/Solutions) | Medium | 2021-03-05  |
 | 0019 | [删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Solutions](./链表/【0019】删除链表的倒数第n个节点/Solutions) | Medium | 2021-03-05  |
-| 0021 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Solutions](./链表/【0021】合并两个有序链表/Solutions) | Easy | 2021-02-26  |
+| 0021 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Solutions](./链表/【0021】合并两个有序链表/Solutions) | Easy | 2022-07-27  |
 | 0024 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [Solutions](./链表/【0024】两两交换链表中的节点/Solutions) | Medium | 2021-03-24  |
 | 0061 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [Solutions](./链表/【0061】旋转链表/Solutions) | Medium | 2021-02-28  |
 | 0083 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Solutions](./链表/【0083】删除排序链表中的重复元素/Solutions) | Easy | 2021-03-26  |
