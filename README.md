@@ -117,7 +117,7 @@
 | 0217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [Solutions](./数组/【0217】存在重复元素/Solutions) | Easy | 2021-02-27  |
 | 0238 | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [Solutions](./数组/【0238】除自身以外数组的乘积/Solutions) | Medium | 2021-03-02  |
 | 0268 | [丢失的数字](https://leetcode-cn.com/problems/missing-number/) | [Solutions](./数组/【0268】丢失的数字/Solutions) | Easy | 2021-02-26  |
-| 0283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Solutions](./数组/【0283】移动零/Solutions) | Easy | 2021-02-25  |
+| 0283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Solutions](./数组/【0283】移动零/Solutions) | Easy | 2022-07-27  |
 | 0287 | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [Solutions](./数组/【0287】寻找重复数/Solutions) | Medium | 2021-03-04  |
 | 0448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solutions](./数组/【0448】找到所有数组中消失的数字/Solutions) | Easy | 2021-03-04 |
 | 0867 | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | [Solutions](./数组/【0867】转置矩阵/Solutions) | Easy | 2021-03-23  |
@@ -221,7 +221,7 @@
 | 0003 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Solutions](./字符串/【0003】无重复字符的最长子串/Solutions) | Medium | 2021-03-05  |
 | 0006 | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [Solutions](./字符串/【0006】z_字形变换/Solutions) | Medium | 2020-09-26 |
 | 0008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [Solutions](./字符串/【0008】字符串转换整数_atoi/Solutions) | Medium | 2021-03-04  |
-| 0014 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [Solutions](./字符串/【0014】最长公共前缀/Solutions) | Easy | 2021-02-26  |
+| 0014 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [Solutions](./字符串/【0014】最长公共前缀/Solutions) | Easy | 2022-07-27  |
 | 0020 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Solutions](./字符串/【0020】有效的括号/Solutions) | Easy | 2022-07-13  |
 | 0028 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [Solutions](./字符串/【0028】实现_str_str/Solutions) | Easy | 2021-02-26  |
 | 0038 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | [Solutions](./字符串/【0038】外观数列/Solutions) | Easy | 2021-03-02  |
