@@ -240,7 +240,7 @@
 | 0009 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [Solutions](./数学/【0009】回文数/Solutions) | Easy | 2021-02-27  |
 | 0013 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [Solutions](./数学/【0013】罗马数字转整数/Solutions) | Easy | 2021-02-28  |
 | 0168 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [Solutions](./数学/【0168】excel表列名称/Solutions) | Easy | 2020-10-30 |
-| 0171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Solutions](./数学/【0171】excel表列序号/Solutions) | Easy | 2021-02-25  |
+| 0171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Solutions](./数学/【0171】excel表列序号/Solutions) | Easy | 2022-07-28  |
 | 0202 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | [Solutions](./数学/【0202】快乐数/Solutions) | Easy | 2021-02-28  |
 | 0326 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | [Solutions](./数学/【0326】3_的幂/Solutions) | Easy | 2021-03-01  |
 
