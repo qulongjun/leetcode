@@ -174,7 +174,7 @@
 | 0234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Solutions](./链表/【0234】回文链表/Solutions) | Easy | 2022-07-29  |
 | 0237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Solutions](./链表/【0237】删除链表中的节点/Solutions) | Easy | 2021-02-24  |
 | 0328 | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Solutions](./链表/【0328】奇偶链表/Solutions) | Medium | 2021-03-05  |
-| 0876 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Solutions](./链表/【0876】链表的中间结点/Solutions) | Easy | 2021-04-14  |
+| 0876 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Solutions](./链表/【0876】链表的中间结点/Solutions) | Easy | 2022-07-29  |
 
 ### 动态规划
 
