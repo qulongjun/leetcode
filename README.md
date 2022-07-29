@@ -106,7 +106,7 @@
 | 0026 | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Solutions](./数组/【0026】删除排序数组中的重复项/Solutions) | Easy | 2021-02-27  |
 | 0027 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [Solutions](./数组/【0027】移除元素/Solutions) | Easy | 2021-03-05  |
 | 0034 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solutions](./数组/【0034】在排序数组中查找元素的第一个和最后一个位置/Solutions) | Medium | 2021-03-29  |
-| 0035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Solutions](./数组/【0035】搜索插入位置/Solutions) | Easy | 2021-03-12  |
+| 0035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [Solutions](./数组/【0035】搜索插入位置/Solutions) | Easy | 2022-07-29  |
 | 0048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [Solutions](./数组/【0048】旋转图像/Solutions) | Medium | 2021-03-02  |
 | 0055 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [Solutions](./数组/【0055】跳跃游戏/Solutions) | Medium | 2021-04-13  |
 | 0066 | [加一](https://leetcode-cn.com/problems/plus-one/) | [Solutions](./数组/【0066】加一/Solutions) | Easy | 2021-03-01  |
