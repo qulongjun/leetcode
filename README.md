@@ -195,7 +195,7 @@
 | # | 问题 | 解答 | 难度 | 最后提交日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 | 0049 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [Solutions](./哈希表/【0049】字母异位词分组/Solutions) | Medium | 2021-03-06  |
-| 0136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [Solutions](./哈希表/【0136】只出现一次的数字/Solutions) | Easy | 2021-02-25  |
+| 0136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [Solutions](./哈希表/【0136】只出现一次的数字/Solutions) | Easy | 2022-07-29  |
 | 0204 | [计数质数](https://leetcode-cn.com/problems/count-primes/) | [Solutions](./哈希表/【0204】计数质数/Solutions) | Easy | 2021-03-01  |
 | 0242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [Solutions](./哈希表/【0242】有效的字母异位词/Solutions) | Easy | 2021-02-26  |
 | 0349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [Solutions](./哈希表/【0349】两个数组的交集/Solutions) | Easy | 2021-03-02  |
