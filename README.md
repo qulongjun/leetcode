@@ -137,7 +137,7 @@
 | 0106 | [从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solutions](./树/【0106】从中序与后序遍历序列构造二叉树/Solutions) | Medium | 2021-03-06  |
 | 0108 | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solutions](./树/【0108】将有序数组转换为二叉搜索树/Solutions) | Easy | 2021-03-05  |
 | 0110 | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [Solutions](./树/【0110】平衡二叉树/Solutions) | Easy | 2022-07-28  |
-| 0111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Solutions](./树/【0111】二叉树的最小深度/Solutions) | Easy | 2021-05-19  |
+| 0111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Solutions](./树/【0111】二叉树的最小深度/Solutions) | Easy | 2022-07-29  |
 | 0112 | [路径总和](https://leetcode-cn.com/problems/path-sum/) | [Solutions](./树/【0112】路径总和/Solutions) | Easy | 2022-07-26 |
 | 0113 | [路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [Solutions](./树/【0113】路径总和_ii/Solutions) | Medium | 2020-09-26 |
 | 0114 | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [Solutions](./树/【0114】二叉树展开为链表/Solutions) | Medium | 2021-02-08 |
