@@ -130,7 +130,7 @@
 | # | 问题 | 解答 | 难度 | 最后提交日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
 | 0098 | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Solutions](./树/【0098】验证二叉搜索树/Solutions) | Medium | 2021-03-05  |
-| 0100 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [Solutions](./树/【0100】相同的树/Solutions) | Easy | 2021-04-29  |
+| 0100 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [Solutions](./树/【0100】相同的树/Solutions) | Easy | 2022-07-29  |
 | 0101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [Solutions](./树/【0101】对称二叉树/Solutions) | Easy | 2021-02-28  |
 | 0104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Solutions](./树/【0104】二叉树的最大深度/Solutions) | Easy | 2022-07-26  |
 | 0105 | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solutions](./树/【0105】从前序与中序遍历序列构造二叉树/Solutions) | Medium | 2021-03-06  |
