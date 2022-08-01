@@ -249,7 +249,7 @@
 
 | # | 问题 | 解答 | 难度 | 最后提交日期 |
 |:---:| :-----: | :--------: | :----------: | :--------: |
-| 0155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [Solutions](./设计/【0155】最小栈/Solutions) | Easy | 2021-02-27  |
+| 0155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [Solutions](./设计/【0155】最小栈/Solutions) | Easy | 2022-08-01  |
 | 0225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [Solutions](./设计/【0225】用队列实现栈/Solutions) | Easy | 2021-03-26  |
 | 0232 | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [Solutions](./设计/【0232】用栈实现队列/Solutions) | Easy | 2021-03-05  |
 
