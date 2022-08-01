@@ -244,6 +244,7 @@
 | 0171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Solutions](./数学/【0171】excel表列序号/Solutions) | Easy | 2022-07-28  |
 | 0202 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | [Solutions](./数学/【0202】快乐数/Solutions) | Easy | 2021-02-28  |
 | 0326 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | [Solutions](./数学/【0326】3_的幂/Solutions) | Easy | 2021-03-01  |
+| 1556 | [千位分隔数](https://leetcode.cn/problems/thousand-separator/) | [Solutions](./数学/【1556】千位分隔数/Solutions) | Easy | 2022-08-01  |
 
 ### 设计
 
