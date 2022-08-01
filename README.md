@@ -186,7 +186,7 @@
 | 0070 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [Solutions](./动态规划/【0070】爬楼梯/Solutions) | Easy | 2022-07-13  |
 | 0121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Solutions](./动态规划/【0121】买卖股票的最佳时机/Solutions) | Easy | 2021-03-29  |
 | 0198 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [Solutions](./动态规划/【0198】打家劫舍/Solutions) | Medium | 2021-03-29  |
-| 0300 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Solutions](./动态规划/【0300】最长上升子序列/Solutions) | Medium | 2020-09-30 |
+| 0300 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Solutions](./动态规划/【0300】最长上升子序列/Solutions) | Medium | 2022-08-01 |
 | 0322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [Solutions](./动态规划/【0322】零钱兑换/Solutions) | Medium | 2021-04-26  |
 | 0993 | [二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [Solutions](./动态规划/【0993】二叉树的堂兄弟节点/Solutions) | Easy | 2021-05-17  |
 
