@@ -198,7 +198,7 @@
 | 0136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [Solutions](./哈希表/【0136】只出现一次的数字/Solutions) | Easy | 2022-07-29  |
 | 0204 | [计数质数](https://leetcode-cn.com/problems/count-primes/) | [Solutions](./哈希表/【0204】计数质数/Solutions) | Easy | 2021-03-01  |
 | 0242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [Solutions](./哈希表/【0242】有效的字母异位词/Solutions) | Easy | 2021-02-26  |
-| 0349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [Solutions](./哈希表/【0349】两个数组的交集/Solutions) | Easy | 2021-03-02  |
+| 0349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [Solutions](./哈希表/【0349】两个数组的交集/Solutions) | Easy | 2022-08-01  |
 | 0350 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [Solutions](./哈希表/【0350】两个数组的交集_ii/Solutions) | Easy | 2021-03-02  |
 | 0387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [Solutions](./哈希表/【0387】字符串中的第一个唯一字符/Solutions) | Easy | 2021-03-01  |
 
