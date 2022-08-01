@@ -113,7 +113,7 @@
 | 0088 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Solutions](./数组/【0088】合并两个有序数组/Solutions) | Easy | 2021-02-27  |
 | 0118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [Solutions](./数组/【0118】杨辉三角/Solutions) | Easy | 2021-02-25  |
 | 0122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solutions](./数组/【0122】买卖股票的最佳时机_ii/Solutions) | Easy | 2021-02-25  |
-| 0169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [Solutions](./数组/【0169】多数元素/Solutions) | Easy | 2021-02-25  |
+| 0169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [Solutions](./数组/【0169】多数元素/Solutions) | Easy | 2022-08-01  |
 | 0217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [Solutions](./数组/【0217】存在重复元素/Solutions) | Easy | 2021-02-27  |
 | 0238 | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [Solutions](./数组/【0238】除自身以外数组的乘积/Solutions) | Medium | 2021-03-02  |
 | 0240 | [搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [Solutions](./数组/【0240】搜索二维矩阵_ii/Solutions) | Medium | 2022-07-28  |
